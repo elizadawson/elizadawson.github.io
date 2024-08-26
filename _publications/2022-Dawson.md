@@ -3,6 +3,7 @@ title: "Ice mass loss sensitivity to the Antarctic ice sheet basal thermal state
 collection: publications
 category: manuscripts
 permalink: '/publication/2022-Dawson'
+external_url: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL105450'
 excerpt: 'In this paper, we examine how thawing at the base of the Antarctic ice sheet could lead to significant ice mass loss and contribute to sea-level rise, particularly in previously considered stable regions of East Antarctica. Using numerical model projections, the study highlights that areas like the Wilkes Basin could become major contributors to sea-level rise if basal thawing occurs, challenging the focus on West Antarctica.'
 date: 2022-09-14
 venue: 'Nature Communications'
