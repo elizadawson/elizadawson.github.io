@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+
+<iframe src="http://elizadawson.github.io/files/Dawson_2024_CV.pdf" width="600" height="400"></iframe>
+
+
 {% include base_path %}
 
 Education
