@@ -3,7 +3,7 @@ title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'In this paper, we examine how thawing at the base of the Antarctic ice sheet could lead to significant ice mass loss and contribute to sea-level rise, particularly in previously considered “stable” regions of East Antarctica. Using numerical model projections, the study highlights that areas like the Wilkes Basin could become major contributors to sea-level rise if basal thawing occurs, challenging the focus on West Antarctica.'
 date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
