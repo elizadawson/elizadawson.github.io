@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-<iframe src="http://elizadawson.github.io/files/Dawson_2024_CV.pdf" width="600" height="400"></iframe>
+<!-- <iframe src="http://elizadawson.github.io/files/Dawson_2024_CV.pdf" width="600" height="400"></iframe> -->
+<embed src="http://elizadawson.github.io/files/Dawson_2024_CV.pdf" width="600" height="400" type="application/pdf">
 
 
 {% include base_path %}
