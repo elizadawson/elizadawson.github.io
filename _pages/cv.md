@@ -1,4 +1,13 @@
----
+## My CV
+
+Below is my CV:
+
+<embed src="http://elizadawson.github.io/files/Dawson_2024_CV.pdf" width="100%" height="600px" type="application/pdf">
+
+If you prefer, you can also [download my CV](http://elizadawson.github.io/files/Dawson_2024_CV.pdf).
+
+
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -66,4 +75,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
