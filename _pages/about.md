@@ -1,11 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+My research explores the underlying processes that shape the evolution of Earth’s ice sheets, particularly those that could lead to unstable and widespread ice loss resulting in sea level rise. I am especially focused on how subglacial and englacial conditions influence ice flow and ice sheet stability. The subsurface conditions are critical in modulating ice flow; however, this basal environment is challenging to measure directly due to the ice sheet's remote location, vast size, and harsh conditions. As a result, the future evolution of the ice sheet in response to subsurface changes remains highly uncertain.
+
+To address these challenges, I am innovating methods that combine recent advancements across earth, planetary, and data science disciplines with the goal of synthesizing observations and models to answer polar geoscience problems. Through this work, I seek to refine projections of ice sheet flow in a changing climate and identify emerging loci of ice loss and sea-level rise contribution.
+
+
+Old Stuff
+======
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
