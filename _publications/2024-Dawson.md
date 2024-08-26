@@ -8,7 +8,7 @@ excerpt: 'This paper examines the vulnerability of East Antarctica’s Adélie-G
 date: 2024-1-19
 venue: 'Geophysical Research Letters'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL105450'
+paperurl: 'http://elizadawson.github.io/files/Dawson_pub_2024.pdf'
 citation: 'Dawson, E. J., Schroeder, D. M., Chu, W., Mantelli, E., & Seroussi, H. (2024). Heterogeneous basal thermal conditions underpinning the Adélie‐George V Coast, East Antarctica. Geophysical Research Letters, 51(2), e2023GL105450'
 ---
 
