@@ -11,10 +11,14 @@ redirect_from:
 
 Below is my CV:
 ======
-<embed src="files/Dawson_2024_CV.pdf" width="100%" height="600px" type="application/pdf">
-<!-- <iframe src="assets/files/cv.pdf" width="100%" height="600px"></iframe> -->
+<embed src="{{http://elizadawson.github.io}}/files/Dawson_2024_CV.pdf" width="600" height="700" type='application/pdf'> 
 
 If you prefer, you can also [download my CV](http://elizadawson.github.io/files/Dawson_2024_CV.pdf).
+
+
+<!-- <embed src="http://elizadawson.github.io/files/Dawson_2024_CV.pdf" width="100%" height="600px" type="application/pdf"> -->
+<!-- <iframe src="assets/files/cv.pdf" width="100%" height="600px"></iframe> -->
+
 
 
 <!-- <iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://elizadawson.github.io/files/Dawson_2024_CV.pdf" width="100%" height="600px"></iframe>
