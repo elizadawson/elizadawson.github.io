@@ -1,13 +1,4 @@
-## My CV
-
-Below is my CV:
-
-<embed src="http://elizadawson.github.io/files/Dawson_2024_CV.pdf" width="100%" height="600px" type="application/pdf">
-
-If you prefer, you can also [download my CV](http://elizadawson.github.io/files/Dawson_2024_CV.pdf).
-
-
-<!-- ---
+---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -16,12 +7,20 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://elizadawson.github.io/files/Dawson_2024_CV.pdf" width="100%" height="600px"></iframe>
-<!-- <iframe src="http://elizadawson.github.io/files/Dawson_2024_CV.pdf" width="600" height="400"></iframe> -->
-<!-- <embed src="http://elizadawson.github.io/files/Dawson_2024_CV.pdf" width="600" height="400" type="application/pdf"> -->
-
-
 {% include base_path %}
+
+Below is my CV:
+======
+<embed src="http://elizadawson.github.io/files/Dawson_2024_CV.pdf" width="100%" height="600px" type="application/pdf">
+
+If you prefer, you can also [download my CV](http://elizadawson.github.io/files/Dawson_2024_CV.pdf).
+
+
+<!-- <iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://elizadawson.github.io/files/Dawson_2024_CV.pdf" width="100%" height="600px"></iframe>
+<!-- <iframe src="http://elizadawson.github.io/files/Dawson_2024_CV.pdf" width="600" height="400"></iframe> -->
+<!-- <embed src="http://elizadawson.github.io/files/Dawson_2024_CV.pdf" width="600" height="400" type="application/pdf"> --> -->
+
+
 
 Education
 ======
