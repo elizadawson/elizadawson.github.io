@@ -11,7 +11,8 @@ redirect_from:
 
 Below is my CV:
 ======
-<embed src="http://elizadawson.github.io/files/Dawson_2024_CV.pdf" width="100%" height="600px" type="application/pdf">
+<embed src="files/Dawson_2024_CV.pdf" width="100%" height="600px" type="application/pdf">
+<!-- <iframe src="assets/files/cv.pdf" width="100%" height="600px"></iframe> -->
 
 If you prefer, you can also [download my CV](http://elizadawson.github.io/files/Dawson_2024_CV.pdf).
 
