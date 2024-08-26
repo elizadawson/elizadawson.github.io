@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,9 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Below is my CV:
+<!-- Below is my CV: -->
 ======
-<embed src="{{http://elizadawson.github.io}}/files/Dawson_2024_CV.pdf" width="600" height="700" type='application/pdf'> 
+<!-- <embed src="{{http://elizadawson.github.io}}/files/Dawson_2024_CV.pdf" width="600" height="700" type='application/pdf'>  -->
+
+<embed src="{{ site.baseurl }}/files/Dawson_2024_CV.pdf" width="600" height="700" type='application/pdf'> 
+
 
 If you prefer, you can also [download my CV](http://elizadawson.github.io/files/Dawson_2024_CV.pdf).
 
