@@ -55,4 +55,6 @@ author_profile: true
   <img src="/images/backyard/photo2.png" alt="Photo 2">
   <img src="/images/backyard/photo3.png" alt="Photo 3">
   <img src="/images/backyard/photo4.png" alt="Photo 4">
+  <img src="/images/backyard/photo5.png" alt="Photo 5">
+  <img src="/images/backyard/photo6.png" alt="Photo 6">
 </div>
