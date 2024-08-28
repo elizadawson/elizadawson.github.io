@@ -10,6 +10,6 @@ My research explores the underlying processes that shape the evolution of Earthâ
 
 To address these challenges, I am innovating methods that combine recent advancements across earth, planetary, and data science disciplines with the goal of synthesizing observations and models to answer polar geoscience problems. Through this work, I seek to refine projections of ice sheet flow in a changing climate and identify emerging loci of ice loss and sea-level rise contribution.
 
-<a href="/talks/" class="btn btn-icon" title="Go to Research Areas">
+<a href="/research/" class="btn btn-icon" title="Go to Research Areas">
   <img src="/images/icon-home.png" alt="Talks Icon" class="icon-image"> Talks
 </a>
