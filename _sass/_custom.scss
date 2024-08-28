@@ -1,4 +1,9 @@
 /* Custom styles for the About page button */
+.center-button {
+  text-align: center; /* Center the content horizontally */
+  margin: 20px 0;     /* Optional: add some margin above and below */
+}
+
 .btn-icon {
   display: inline-block;
   background-color: #333; /* Dark gray background color */
