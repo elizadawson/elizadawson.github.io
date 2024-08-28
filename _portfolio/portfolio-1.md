@@ -51,7 +51,7 @@ author_profile: true
 ## Backyard Adventures
 
 <div class="masonry-gallery">
-  <img src="/images/svalbard2023/photo1.png" alt="Photo 1">
-  <img src="/images/svalbard2023/photo5.png" alt="Photo 5">
-  <img src="/images/svalbard2023/photo3.png" alt="Photo 3">
+  <img src="/images/backyard/photo1.png" alt="Photo 1">
+  <img src="/images/backyard/photo2.png" alt="Photo 2">
+  <img src="/images/backyard/photo3.png" alt="Photo 3">
 </div>
