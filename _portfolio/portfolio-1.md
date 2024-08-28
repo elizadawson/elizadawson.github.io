@@ -10,7 +10,7 @@ author_profile: true
   <img src="/images/gallery1/photo2.png" alt="Photo 2">
   <img src="/images/gallery1/photo3.png" alt="Photo 3">
   <img src="/images/gallery1/photo4.png" alt="Photo 4">
-  <img src="/images/gallery1/photo5png" alt="Photo 5">
+  <img src="/images/gallery1/photo5.png" alt="Photo 5">
   <img src="/images/gallery1/photo6.png" alt="Photo 6">
   <img src="/images/gallery1/photo7.png" alt="Photo 7">
   <img src="/images/gallery1/photo8.png" alt="Photo 8">
