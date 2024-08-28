@@ -67,15 +67,30 @@
 // }
 
 .masonry-gallery {
-  column-count: 3; /* Number of columns */
-  column-gap: 10px; /* Gap between columns */
+  column-count: 3;
+  column-gap: 10px;
+  margin-bottom: 50px; /* Adds space between different galleries */
 }
 
 .masonry-gallery img {
-  width: 100%; /* Make images take up the full column width */
-  height: auto; /* Maintain aspect ratio */
-  margin-bottom: 10px; /* Space between images */
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
   display: block;
-  border-radius: 5px; /* Optional: round the corners of the images */
-  break-inside: avoid; /* Prevent images from breaking into another column */
+  border-radius: 5px;
+  break-inside: avoid;
 }
+
+// .masonry-gallery {
+//   column-count: 3; /* Number of columns */
+//   column-gap: 10px; /* Gap between columns */
+// }
+
+// .masonry-gallery img {
+//   width: 100%; /* Make images take up the full column width */
+//   height: auto; /* Maintain aspect ratio */
+//   margin-bottom: 10px; /* Space between images */
+//   display: block;
+//   border-radius: 5px; /* Optional: round the corners of the images */
+//   break-inside: avoid; /* Prevent images from breaking into another column */
+// }
