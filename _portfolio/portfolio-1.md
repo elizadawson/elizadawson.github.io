@@ -35,7 +35,6 @@ author_profile: true
   <img src="/images/iceland2022/photo2.png" alt="Photo 2">
   <img src="/images/iceland2022/photo3.png" alt="Photo 3">
   <img src="/images/iceland2022/photo4.png" alt="Photo 4">
-  <img src="/images/iceland2022/photo5.png" alt="Photo 5">
 </div>
 
 ## Svalbard 2023
