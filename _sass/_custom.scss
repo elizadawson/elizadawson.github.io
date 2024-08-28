@@ -32,3 +32,17 @@
   text-decoration: none !important; /* Ensure no underline on hover */
   color: inherit; /* Ensure link color is inherited on hover */
 }
+
+.masonry-gallery {
+  column-count: 3; /* Number of columns */
+  column-gap: 10px; /* Gap between columns */
+}
+
+.masonry-gallery img {
+  width: 100%; /* Make images take up the full column width */
+  height: auto; /* Maintain aspect ratio */
+  margin-bottom: 10px; /* Space between images */
+  display: block;
+  border-radius: 5px; /* Optional: round the corners of the images */
+  break-inside: avoid; /* Prevent images from breaking into another column */
+}
