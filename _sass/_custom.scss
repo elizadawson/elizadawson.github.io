@@ -1,4 +1,10 @@
 /* Custom styles for the About page button */
+.center-button {
+  display: flex;            /* Use flexbox for centering */
+  justify-content: center;  /* Center horizontally */
+  margin: 20px 0;           /* Optional: add some margin above and below */
+}
+
 .btn-icon {
   display: inline-flex;
   align-items: center;
@@ -15,4 +21,9 @@
 .btn-icon:hover {
   background-color: #333; /* Slightly lighter black on hover */
   color: white; /* Keep text white on hover */
+}
+
+/* Additional specificity to remove underline from links inside .btn-icon */
+.btn-icon a {
+  text-decoration: none !important; /* Force removal of underline */
 }
