@@ -10,17 +10,17 @@ My research explores the underlying processes that shape the evolution of Earthâ
 
 To address these challenges, I am innovating methods that combine recent advancements across earth, planetary, and data science disciplines with the goal of synthesizing observations and models to answer polar geoscience problems. Through this work, I seek to improve our understanding of ice sheet dynamics in the face of climate change and identify emerging loci of ice loss and sea-level rise contribution.
 
-<div class="center-button">
+<!-- <div class="center-button">
   <a href="/research/" class="btn btn-icon" title="Go to Research Areas">
     Go to Research Areas
   </a>
 </div>
 
-<img src="images/about-image.png" alt="ice is nice" style="max-width: 100%; height: auto; margin-top: 20px;">
+<img src="images/about-image.png" alt="ice is nice" style="max-width: 100%; height: auto; margin-top: 20px;"> -->
 
-<!-- <div class="image-overlay-container">
+<div class="image-overlay-container">
   <img src="images/about-image.png" alt="ice is nice">
   <a href="/research/" class="btn btn-icon overlay-button" title="Go to Research Areas">
     Go to Research Areas
   </a>
-</div> -->
+</div>

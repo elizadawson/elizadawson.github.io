@@ -1,80 +1,71 @@
-/* Custom styles for the About page button */
-// .image-overlay-container {
-//   position: relative;
+/* Custom styles for the About page button and photo gallery*/
+.image-overlay-container {
+  position: relative;
+  display: inline-block;
+  width: 100%; /* Ensures the container takes up the full width of its parent */
+  max-width: 100%; /* Ensures the image stays at its natural width */
+}
+
+.background-image {
+  width: 100%; /* Ensures the image takes up the full width of its container */
+  height: auto; /* Maintains the aspect ratio of the image */
+  display: block; /* Ensures the image is a block element */
+}
+
+.overlay-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #555; /* Dark gray background for the button */
+  color: white; /* White text color */
+  padding: 10px 20px; /* Padding inside the button */
+  border-radius: 25px; /* Rounded corners for the button */
+  text-decoration: none !important; /* Ensures no underline on the text */
+  font-size: 16px; /* Font size */
+  font-weight: bold; /* Bold text */
+  transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+  white-space: nowrap; /* Prevents text wrapping inside the button */
+}
+
+.overlay-button:hover {
+  background-color: #777; /* Lighter gray on hover */
+  text-decoration: none !important; /* Ensures no underline on hover */
+}
+
+// .center-button {
+//   display: flex;
+//   justify-content: center; /* Center the button horizontally */
+//   margin: 20px 0; /* Optional: add some margin above and below */
+// }
+
+// .btn-icon {
 //   display: inline-block;
-//   width: 100%; /* Adjust to fit your layout */
-//   max-width: 600px; /* Optional: control the size */
+//   background-color: #555; /* Dark gray background color */
+//   color: white; /* White text color */
+//   padding: 10px 20px; /* Adjust padding for the button */
+//   border-radius: 25px; /* Rounded corners */
+//   text-decoration: none !important; /* Ensure no underline */
+//   font-size: 16px; /* Font size */
+//   font-weight: bold; /* Bold text */
+//   transition: background-color 0.3s ease; /* Smooth transition for hover effect */
 // }
 
-// .image-overlay-container img {
-//   width: 100%;
-//   height: auto;
-//   display: block;
-// }
-
-// .overlay-button {
-//   position: absolute;
-//   top: 50%;
-//   left: 50%;
-//   transform: translate(-50%, -50%);
-//   background-color: #333;
-//   color: white;
-//   padding: 10px 20px;
-//   border-radius: 25px;
-//   text-decoration: none !important; /* Force remove underline */
-//   font-size: 16px;
-//   font-weight: bold;
-//   transition: background-color 0.3s ease;
-// }
-
-// .overlay-button:hover {
-//   background-color: #555;
+// .btn-icon:hover {
+//   background-color: #777; /* Slightly lighter dark gray on hover */
+//   color: white; /* Keep text white on hover */
 //   text-decoration: none !important; /* Ensure underline is not added on hover */
 // }
 
-// .overlay-button a {
+// .btn-icon a {
 //   text-decoration: none !important; /* Ensure no underline on links */
 //   color: inherit; /* Ensure link color is inherited from parent */
 // }
 
-// .overlay-button a:hover {
+// .btn-icon a:hover {
 //   text-decoration: none !important; /* Ensure no underline on hover */
-//   color: inherit;
+//   color: inherit; /* Ensure link color is inherited on hover */
 // }
-
-.center-button {
-  display: flex;
-  justify-content: center; /* Center the button horizontally */
-  margin: 20px 0; /* Optional: add some margin above and below */
-}
-
-.btn-icon {
-  display: inline-block;
-  background-color: #555; /* Dark gray background color */
-  color: white; /* White text color */
-  padding: 10px 20px; /* Adjust padding for the button */
-  border-radius: 25px; /* Rounded corners */
-  text-decoration: none !important; /* Ensure no underline */
-  font-size: 16px; /* Font size */
-  font-weight: bold; /* Bold text */
-  transition: background-color 0.3s ease; /* Smooth transition for hover effect */
-}
-
-.btn-icon:hover {
-  background-color: #777; /* Slightly lighter dark gray on hover */
-  color: white; /* Keep text white on hover */
-  text-decoration: none !important; /* Ensure underline is not added on hover */
-}
-
-.btn-icon a {
-  text-decoration: none !important; /* Ensure no underline on links */
-  color: inherit; /* Ensure link color is inherited from parent */
-}
-
-.btn-icon a:hover {
-  text-decoration: none !important; /* Ensure no underline on hover */
-  color: inherit; /* Ensure link color is inherited on hover */
-}
 
 .masonry-gallery {
   column-count: 3; /* Number of columns */
