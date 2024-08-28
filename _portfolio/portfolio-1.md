@@ -10,12 +10,12 @@ author_profile: true
 <div class="masonry-gallery">
   <img src="/images/greenland2019/photo1.png" alt="Photo 1">
   <img src="/images/greenland2019/photo2.png" alt="Photo 2">
-  <img src="/images/greenland2019/photo8.png" alt="Photo 8">
+  <img src="/images/greenland2019/photo5.png" alt="Photo 5">
   <img src="/images/greenland2019/photo3.png" alt="Photo 3">
   <img src="/images/greenland2019/photo4.png" alt="Photo 4">
-  <img src="/images/greenland2019/photo5.png" alt="Photo 5">
   <img src="/images/greenland2019/photo6.png" alt="Photo 6">
   <img src="/images/greenland2019/photo7.png" alt="Photo 7">
+  <img src="/images/greenland2019/photo8.png" alt="Photo 8">
 </div>
 
 ## Antarctica 2020
