@@ -20,7 +20,7 @@ To address these challenges, I am innovating methods that combine recent advance
 
 <div class="image-overlay-container">
   <img src="images/about-image.png" alt="ice is nice">
-  <a href="/talks/" class="btn btn-icon overlay-button" title="Go to Research Areas">
+  <a href="/research/" class="btn btn-icon overlay-button" title="Go to Research Areas">
     Go to Research Areas
   </a>
 </div>

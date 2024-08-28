@@ -1,7 +1,6 @@
 /* Custom styles for the About page button */
 .image-overlay-container {
   position: relative;
-  display: inline-block;
   width: 100%; /* Adjust to fit your layout */
   max-width: 600px; /* Optional: control the size */
 }
@@ -21,25 +20,11 @@
   color: white;
   padding: 10px 20px;
   border-radius: 25px;
-  text-decoration: none !important; /* Force remove underline */
+  text-decoration: none;
   font-size: 16px;
   font-weight: bold;
   transition: background-color 0.3s ease;
-}
-
-.overlay-button:hover {
-  background-color: #555;
-  text-decoration: none !important; /* Ensure underline is not added on hover */
-}
-
-.overlay-button a {
-  text-decoration: none !important; /* Ensure no underline on links */
-  color: inherit; /* Ensure link color is inherited from parent */
-}
-
-.overlay-button a:hover {
-  text-decoration: none !important; /* Ensure no underline on hover */
-  color: inherit;
+  white-space: nowrap; /* Ensure text doesn't wrap */
 }
 
 // .center-button {
