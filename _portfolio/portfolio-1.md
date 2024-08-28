@@ -27,6 +27,7 @@ author_profile: true
   <img src="/images/antarctica2020/photo5.png" alt="Photo 5">
 </div>
 
+<<<<<<< HEAD
 ## Iceland 2023
 
 <div class="masonry-gallery">
@@ -34,6 +35,16 @@ author_profile: true
   <img src="/images/iceland2023/photo2.png" alt="Photo 2">
   <img src="/images/iceland2023/photo3.png" alt="Photo 3">
   <img src="/images/iceland2023/photo4.png" alt="Photo 4">
-  <img src="/images/iceland2023/photo5.png" alt="Photo 5">
+  <img src="/images/iceland2023/photo6.png" alt="Photo 6">
+</div>
+=======
+## Iceland 2023
+
+<div class="masonry-gallery">
+  <img src="/images/iceland2023/photo1.png" alt="Photo 1">
+  <img src="/images/iceland2023/photo2.png" alt="Photo 2">
+  <img src="/images/iceland2023/photo3.png" alt="Photo 3">
+  <img src="/images/iceland2023/photo4.png" alt="Photo 4">
   <img src="/images/iceland2023/photo6.png" alt="Photo 5">
 </div>
+>>>>>>> 2de4a8ca340107526b5886289fa2d25a413e963e
