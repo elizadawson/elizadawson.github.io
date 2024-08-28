@@ -44,4 +44,8 @@ author_profile: true
   <img src="/images/svalbard2023/photo1.png" alt="Photo 1">
   <img src="/images/svalbard2023/photo2.png" alt="Photo 2">
   <img src="/images/svalbard2023/photo3.png" alt="Photo 3">
+  <img src="/images/svalbard2023/photo4.png" alt="Photo 4">
+  <img src="/images/svalbard2023/photo5.png" alt="Photo 5">
+  <img src="/images/svalbard2023/photo6.png" alt="Photo 6">
+  <img src="/images/svalbard2023/photo7.png" alt="Photo 7">
 </div>
