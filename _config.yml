@@ -24,7 +24,9 @@ author:
   avatar           : "headshot.png"
   name             : "Eliza Dawson"
   pronouns         : # example: "she/her"  
-  bio              : "Integrative Polar Geophysics"
+  bio              : |
+    Integrative Polar Geoscience
+    NOAA C&GC Postdoc Fellow
   location         : # "Earth"
   employer         : "UCAR/Georgia Tech"
   uri              : # URL
