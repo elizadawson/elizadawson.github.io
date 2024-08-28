@@ -16,10 +16,4 @@ To address these challenges, I am innovating methods that combine recent advance
   </a>
 </div>
 
-<!-- <a href="/research/" class="btn btn-icon" title="Go to Research Areas">
-  Go to Research Areas
-</a> -->
-
-<!-- <a href="/research/" class="btn btn-icon" title="Go to Research Areas">
-  <img src="/images/icon-home.png" alt="Talks Icon" class="icon-image"> Talks
-</a> -->
+<img src="images/about-image.png" alt="ice is nice" style="max-width: 100%; height: auto; margin-top: 20px;">
