@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My research explores the underlying processes that shape the evolution of Earth’s ice sheets, particularly those that could lead to unstable and widespread ice loss resulting in sea level rise. I am especially focused on how subglacial and englacial conditions influence ice flow and ice sheet stability. Subsurface conditions are critical in modulating ice flow; however, the basal environment is challenging to measure directly due to the ice sheet's remote location, vast size, and harsh conditions. As a result, the future evolution of the ice sheet in response to subsurface changes remains highly uncertain.
+My research explores the processes driving the evolution of Earth’s ice sheets and their potential to cause widespread, unstable ice loss, leading to global sea level rise. My work focuses on subglacial and englacial ice sheet conditions, along with feedback mechanisms that regulate ice flow but are challenging to measure or model due to the uncertainties posed by this vast, remote, and harsh environment.
 
-To address these challenges, I am innovating methods that combine recent advancements across earth, planetary, and data science disciplines with the goal of synthesizing observations and models to answer polar geoscience problems. Through this work, I seek to improve our understanding of ice sheet dynamics in the face of climate change and identify emerging loci of ice loss and sea-level rise contribution.
+To address these challenges, I am developing methods that combine advancements across Earth, planetary, and data sciences to integrate observational and modeling approaches for polar geoscience problems. My aim is to deepen our understanding of ice sheet dynamics in the face of climate change and to identify emerging loci of ice loss and sea-level rise potential.
 
 <!-- <div class="center-button">
   <a href="/research/" class="btn btn-icon" title="Go to Research Areas">
