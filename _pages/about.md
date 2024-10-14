@@ -19,7 +19,7 @@ To address these challenges, I am developing methods that combine advancements a
 <img src="images/about-image.png" alt="ice is nice" style="max-width: 100%; height: auto; margin-top: 20px;"> -->
 
 <div class="image-overlay-container">
-  <img src="images/about-image.png" alt="ice is nice">
+  <img src="images/about-image.jpg" alt="ice is nice">
   <a href="/research/" class="btn btn-icon overlay-button" title="Go to Research Areas">
     Go to Research Areas
   </a>
