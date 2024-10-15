@@ -4,7 +4,7 @@ title: "Portfolios"
 permalink: /portfolio/
 author_profile: true
 ---
-I quite like taking photos to document my adventures, both research and recreational. Enjoy!
+I quite like taking photos to document my adventures, both research and recreational. Hopefully they load for you!
 
 ## Greenland 2019
 
