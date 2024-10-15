@@ -4,7 +4,7 @@ title: "Portfolios"
 permalink: /portfolio/
 author_profile: true
 ---
-I have fun taking photos to remember my adventures, both research and recreational. Hope they load for you!
+I have fun taking photos to document my adventures, both research and recreational. Hope they load for you!
 
 ## Greenland 2019
 
