@@ -23,7 +23,7 @@ I completed my PhD in the [Stanford Radioglaciology Lab](https://www.radioglacio
 
 <div class="image-overlay-container">
   <img src="images/about_image.jpeg" alt="ice is nice">
-  <a href="/research/" class="btn btn-icon overlay-button" title="See Research Areas">
-    Go to Research Areas
+  <a href="/research/" class="btn btn-icon overlay-button" title="See Research Areas" style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%);">
+  Go to Research Areas
   </a>
 </div>
