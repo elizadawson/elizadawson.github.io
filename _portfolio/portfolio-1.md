@@ -18,10 +18,9 @@ I have fun taking photos to document my adventures... enjoy!
     </p>
   </div>
 
-  <div><img src="/images/svalbard2023/photo3.png" alt="Photo 3"></div>
   <div><img src="/images/svalbard2023/photo5.png" alt="Photo 5"></div>
   <div><img src="/images/svalbard2023/photo2.png" alt="Photo 2"></div>
-  <div><img src="/images/svalbard2023/photo4.png" alt="Photo 4"></div>
+  <div><img src="/images/svalbard2023/photo3.png" alt="Photo 3"></div>
   <div><img src="/images/svalbard2023/photo6.png" alt="Photo 6"></div>
 </div>
 
