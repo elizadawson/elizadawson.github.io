@@ -6,7 +6,7 @@ author_profile: true
 ---
 I have fun taking photos to document my adventures... enjoy!
 
-## Slakbreen glacier, Svalbard 2023
+## Slakbreen Glacier, Svalbard 2023
 
 <div class="masonry-gallery">
   <div style="text-align: center;">
@@ -14,7 +14,7 @@ I have fun taking photos to document my adventures... enjoy!
       <img src="/images/svalbard2023/photo7.png" alt="Photo 1">
     </a>
     <p style="font-size: 0.9em; margin-top: 4px;">
-      <a href="https://spectrum.ieee.org/drone-ice-radar" target="_blank">As featured in <em>IEEE Spectrum</em></a>
+      <a href="https://spectrum.ieee.org/drone-ice-radar" target="_blank">Photography featured in <em>IEEE Spectrum</em></a>
     </p>
   </div>
 
