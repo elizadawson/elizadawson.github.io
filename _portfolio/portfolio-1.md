@@ -1,12 +1,28 @@
 ---
 layout: archive
-title: "Fieldwork Photo galleries"
+title: "Fieldwork in Photos"
 permalink: /portfolio/
 author_profile: true
 ---
-I have fun taking photos to document my adventures... enjoy!
+Fieldwork is a key part of my research, and I enjoy documenting these expeditions through photography. Below are selected images from recent campaigns in Greenland, Antarctica, Svalbard, and Iceland.
+
+## Helheim Glacier and Tasiilaq, Greenland 2025
+Led ground-based radar surveys and supported additional geophysical measurements during a collaborative campaign investigating how surface meltwater reaches the bed of Helheim Glacier, one of Greenland’s fastest-flowing outlet glaciers.
+
+<div class="masonry-gallery">
+  <img src="/images/helheim2025/photo1.png" alt="Photo 1">
+  <img src="/images/helheim2025/photo2.png" alt="Photo 2">
+  <img src="/images/helheim2025/photo3.png" alt="Photo 3">
+  <img src="/images/helheim2025/photo4.png" alt="Photo 4">
+  <img src="/images/helheim2025/photo5.png" alt="Photo 5">
+  <img src="/images/helheim2025/photo6.png" alt="Photo 6">
+  <img src="/images/helheim2025/photo7.png" alt="Photo 7">
+  <img src="/images/helheim2025/photo8.png" alt="Photo 8">
+  <img src="/images/helheim2025/photo9.png" alt="Photo 9">
+</div>
 
 ## Slakbreen Glacier, Svalbard 2023
+Instructor for a field-based Arctic geophysics course at the University Centre in Svalbard (UNIS), leading student surveys and testing custom radar systems mounted on drones and ground-based platforms.
 
 <div class="masonry-gallery">
   <div style="text-align: center;">
@@ -25,6 +41,7 @@ I have fun taking photos to document my adventures... enjoy!
 </div>
 
 ## Vatnajökull Ice Cap, Iceland 2022
+Ground-based and drone-mounted radar surveys conducted along the eastern portion of Iceland’s largest ice cap, focused on evaluating system performance and data quality in warm ice conditions.
 
 <div class="masonry-gallery">
   <img src="/images/iceland2022/photo1.png" alt="Photo 1">
@@ -34,6 +51,7 @@ I have fun taking photos to document my adventures... enjoy!
 </div>
 
 ## Thwaites Glacier, Antarctica 2020
+Deployment as part of the International Thwaites Glacier Collaboration to lead radar surveys and support seismic station installation along the Eastern Shear Margin of Thwaites Glacier to examine how shear-margin dynamics influence ice flow stability. Learn more about the [TIME project](https://thwaitesglacier.org/projects/time){:target="_blank"}.
 
 <div class="masonry-gallery">
   <img src="/images/antarctica2020/photo1.png" alt="Photo 1">
@@ -44,7 +62,8 @@ I have fun taking photos to document my adventures... enjoy!
 </div>
 
 
-## Store Glacier, Greenland 2019
+## Store Glacier and Ilulissat, Greenland 2019
+Geophysical field campaign investigating crevasse-scale processes and subglacial hydrology, conducted in collaboration with the RESPONDER project (University of Cambridge), which studies how basal conditions and hydrologic networks influence the fast flow of Greenland’s outlet glaciers.
 
 <div class="masonry-gallery">
   <img src="/images/greenland2019/photo1.png" alt="Photo 1">
@@ -59,6 +78,7 @@ I have fun taking photos to document my adventures... enjoy!
 
 
 ## Backyard Adventures
+A few favorites from expeditions closer to home
 
 <div class="masonry-gallery">
   <img src="/images/backyard/photo1.png" alt="Photo 1">
