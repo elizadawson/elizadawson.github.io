@@ -6,9 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My research explores the processes driving the evolution of Earth’s ice sheets and their potential to cause widespread, unstable ice loss, leading to global sea level rise. My work focuses on subglacial and englacial ice sheet conditions, along with feedback mechanisms that regulate ice flow but are challenging to measure or model due to the uncertainties posed by this vast, remote, and harsh environment.
 
-To address these challenges, I am developing methods that combine advancements across Earth, planetary, and data sciences to integrate observational and modeling approaches for polar geoscience problems. My aim is to deepen our understanding of ice sheet dynamics in the face of climate change and to identify emerging loci of ice loss and sea-level rise potential.
+I am a [NOAA Climate and Global Change Postdoctoral Fellow](https://cpaess.ucar.edu/cgc/current-awards-alumni) studying the processes that govern the evolution of Earth’s ice sheets and their potential to drive unstable ice loss and sea level rise. My research brings together observational datasets and ice sheet models to better understand how subglacial and englacial conditions influence ice dynamics across Antarctica and Greenland.
+
+I focus on developing methods that combine geophysical observations and numerical modeling to quantify processes that are difficult to observe directly. These include thermal and hydrologic feedbacks beneath ice sheets that can strongly modulate ice flow but remain poorly constrained due to the inaccessibility of the polar environment.
+
+I completed my PhD in the [Stanford Radioglaciology Lab](https://schroeder.stanford.edu) under the supervision of Dr. Dusty Schroeder, where I developed techniques for extracting physical insights from radar sounding data in conjunction with ice sheet modeling. I am currently hosted by Dr. Winnie Chu at the [Georgia Institute of Technology](https://eas.gatech.edu), where I continue to connect Earth science and data science to improve predictive models of ice sheet change in a warming climate.
 
 <!-- <div class="center-button">
   <a href="/research/" class="btn btn-icon" title="Go to Research Areas">
