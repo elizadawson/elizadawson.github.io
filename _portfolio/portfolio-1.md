@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Portfolios"
+title: "Fieldwork Photo galleries"
 permalink: /portfolio/
 author_profile: true
 ---
