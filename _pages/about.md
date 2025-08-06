@@ -19,7 +19,7 @@ I completed my PhD in the [Stanford Radioglaciology Lab](https://www.radioglacio
   </a>
 </div>
 
-<img src="images/about-image.png" alt="ice is nice" style="max-width: 100%; height: auto; margin-top: 20px;"> -->
+<img src="images/about_image.jpeg" alt="ice is nice" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);">
 
 <div class="image-overlay-container">
   <img src="images/about_image.jpeg" alt="ice is nice">
