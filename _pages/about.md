@@ -28,7 +28,7 @@ I completed my PhD in the [Stanford Radioglaciology Lab](https://www.radioglacio
 </style>
 
 <div class="image-overlay-container" style="position: relative; display: inline-block;">
-  <img src="images/about_image.jpeg" alt="ice is nice" style="width: 100%; height: auto;">
+  <img src="images/about_image2.jpeg" alt="ice is nice" style="width: 100%; height: auto;">
   <a href="/research/"
      class="btn btn-icon overlay-button"
      title="See Research Areas"
