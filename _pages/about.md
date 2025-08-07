@@ -24,12 +24,6 @@ I completed my PhD in the [Stanford Radioglaciology Lab](https://www.radioglacio
 .image-overlay-container img {
   border-radius: 8px; /* rounded corners */
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* soft shadow */
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
-}
-
-.image-overlay-container img:hover {
-  transform: translateY(-4px); /* gentle lift on hover */
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); /* slightly stronger shadow */
 }
 </style>
 
