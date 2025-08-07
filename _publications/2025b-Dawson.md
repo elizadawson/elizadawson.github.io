@@ -8,5 +8,5 @@ excerpt: 'We introduce a frequency-domain method for estimating radar attenuatio
 date: 2025-10-01
 venue: 'Journal of Glaciology (in review)'
 # paperurl: ''
-citation: 'Dawson, E. J., Chu, W., Christoffersen, M., Yang, D., Farris, S., & MacGregor, J. A. (in review). Ice sheet attenuation from radar sounding in the frequency domain. *Journal of Glaciology*.'
+citation: 'Dawson, E. J., Chu, W., Christoffersen, M., Yang, D., Farris, S., & MacGregor, J. A. (in review). Ice sheet attenuation from radar sounding in the frequency domain. Journal of Glaciology.'
 ---
