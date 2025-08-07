@@ -63,7 +63,7 @@ Deployment as part of the International Thwaites Glacier Collaboration to lead r
 
 
 ## Store Glacier and Ilulissat, Greenland 2019
-Geophysical field campaign investigating crevasse-scale processes and subglacial hydrology, conducted in collaboration with the RESPONDER project (University of Cambridge), which studies how basal conditions and hydrologic networks influence the fast flow of Greenland’s outlet glaciers.
+Geophysical field campaign investigating crevasse-scale processes and subglacial hydrology, conducted in collaboration with the [RESPONDER project](https://www.erc-responder.eu/) through the University of Cambridge, which studied how basal conditions and hydrologic networks influence the fast flow of Greenland’s outlet glaciers.
 
 <div class="masonry-gallery">
   <img src="/images/greenland2019/photo1.png" alt="Photo 1">
