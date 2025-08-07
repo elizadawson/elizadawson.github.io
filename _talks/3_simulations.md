@@ -8,10 +8,6 @@ permalink: /research/simulations
 # location: "San Francisco, California"
 ---
 
-<div style="text-align: center;">
-  <img src="/images/iceberg-icon.png" alt="Polar Geoscience Icon" style="width: 65px; height: auto;">
-</div>
-
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 1em;">
 
