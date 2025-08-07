@@ -7,18 +7,18 @@ permalink: /research/simulations
 # date: 2012-03-01
 # location: "San Francisco, California"
 ---
-
-
 <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 1em;">
 
   <!-- Left side: Text -->
   <div style="flex: 1; padding-right: 20px; font-size: 0.85em;">
-    <p>I use numerical models to simulate ice sheet dynamics, providing a way to test how ice sheet regions might respond to different environmental drivers. For instance, my work with the Ice-Sheet and Sea-Level System Model (ISSM) revealed that the Antarctic Ice Sheet could be vulnerable to climate warming via the impact of thawing at the ice–bed interface on mass loss. In areas where the bed is frozen but near the melting point, even a small increase in basal temperature can sharply reduce basal friction, triggering additional ice discharge. <a href="/publications/#publication-2022-Dawson">This study</a> was featured in <a href="https://sustainability.stanford.edu/news/are-we-missing-crucial-component-sea-level-rise" target="_blank">Stanford Sustainability News</a>, highlighting the potential for new, previously overlooked contributions to sea-level rise.</p>
+    <p>I specialize in integrating geophysical observations into ice sheet models, using inverse methods to translate measurements into the physical parameters that control ice flow. This two-way connection is essential: observations are only as powerful as the insight they provide to models because models are what allow us to project future mass loss, instability, and contributions to sea-level rise. My work couples radar and other field data with process-based simulations, ensuring that modeled ice sheet behavior is anchored in observations while also guiding new data collection to where it will most improve predictions.</p>
+
+    <p><a href="/publications/#publication-2022-Dawson">My research in <em>Nature Communications</em></a> is an example of how targeted modeling experiments can identify which observations will be most valuable for ice flow projections. By testing the sensitivity of Antarctic mass loss to basal thermal state in the Ice-Sheet and Sea-Level System Model (ISSM), I found that in regions where the bed is frozen but close to melting, even a small temperature increase can drastically reduce basal friction, accelerating ice discharge. This study, featured in <a href="https://sustainability.stanford.edu/news/are-we-missing-crucial-component-sea-level-rise" target="_blank" rel="noopener noreferrer">Stanford Sustainability News</a>, shows how better constraints on basal thermal conditions are key to improving future sea-level rise projections.</p>
   </div>
 
   <!-- Right side: Figure -->
   <div style="flex-shrink: 0; display: flex; align-items: center; justify-content: flex-end;">
-    <img src="/images/thermal.png" alt="Simulation Icon" style="width: 300px;">
+    <img src="/images/thermal.png" alt="Simulation Icon" style="width: 300px; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   </div>
 
 </div>
