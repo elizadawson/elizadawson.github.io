@@ -1,3 +1,10 @@
+---
+title: "Glacier Geophysics"
+collection: talks
+type: "Talk"
+permalink: /research/glaciergeophysics
+---
+
 <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 1em;">
 
   <!-- Left side: Figure -->
