@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can [download my CV here](http://elizadawson.github.io/files/Dawson_2024_CV.pdf).
+You can [download my CV here](http://elizadawson.github.io/files/Dawson_CV.pdf).
 
 <iframe src="{{ site.baseurl }}/files/edawson_cv.pdf" width="100%" height="600px"></iframe>
 
