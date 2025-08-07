@@ -11,7 +11,3 @@ redirect_from:
 You can [download my CV here](http://elizadawson.github.io/files/Dawson_CV.pdf).
 
 <iframe src="{{ site.baseurl }}/files/Dawson_CV.pdf" width="100%" height="600px"></iframe>
-
-
-<!-- <embed src="{{ site.baseurl }}/files/edawson_cv.pdf" width="600" height="700" type='application/pdf'>  -->
-
