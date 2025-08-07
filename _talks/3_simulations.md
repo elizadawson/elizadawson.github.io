@@ -18,7 +18,7 @@ permalink: /research/simulations
 
   <!-- Right side: Figure -->
   <div style="flex-shrink: 0; display: flex; align-items: center; justify-content: flex-end;">
-    <img src="/images/integrative.png" alt="Simulation Icon" style="width: 300px;">
+    <img src="/images/thermal.png" alt="Simulation Icon" style="width: 300px;">
   </div>
 
 </div>
