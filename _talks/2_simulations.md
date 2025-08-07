@@ -1,5 +1,5 @@
 ---
-title: "Ice sheet simulations"
+title: "Ice flow simulations"
 collection: talks
 type: "Talk"
 permalink: /research/simulations

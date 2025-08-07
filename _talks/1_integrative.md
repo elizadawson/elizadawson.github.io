@@ -10,9 +10,11 @@ permalink: /research/integrative
 <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-top: 1em;">
 
   <div style="flex: 1; padding-right: 20px;">
-    <p>New breakthroughs in understanding cryospheric change will come from integrating methodologies across disciplines. However, in glaciology, observational and modeling studies often occur in isolation, and there are inadequate crossovers between glaciologists, oceanographers, and climate scientists.</p>
+    <p>One of my current research directions involves developing a new approach for estimating radar attenuation through ice, expanding the ability to infer thermal structure and basal conditions even where traditional radar analysis falls short. This work leverages techniques from seismology and highlights the power of crossing disciplinary boundaries to unlock new types of geophysical insight.</p>
 
-    <p>My research challenges these divisions. With my background in glaciology, geophysics, and climate science, I apply this broad knowledge to develop new methods that combine ice sheet models and geophysical observations, work that has been funded by NOAA and the NSF. I also collaborate with planetary radio science experts to bridge terrestrial and planetary radioglaciology challenges, and I work with oceanographers to explore the interactions between Southern Ocean forcing and the stability of the Antarctic ice sheet. Furthermore, my undergraduate work in Atmospheric Science included Arctic climatology research. My interdisciplinary approach gives me a unique perspective for understanding ice sheet dynamics and the broader impacts of climate change.</p>
+    <p>In parallel, I am leading a review paper aimed at unifying Earth and planetary perspectives on radar attenuation, helping to establish a shared physical framework across disciplines that are technically aligned but often disconnected. This effort draws from both glaciological and planetary radar communities and highlights the need for common tools and theory across icy worlds.</p>
+
+    <p>Across all of my work, I pursue a systems-oriented approach to understanding ice sheet change—combining observations and models to trace how processes at the surface, base, and margins interact with external climate forcing. Collaborations with planetary radar scientists help address shared challenges in radar signal interpretation through ice, while joint work with oceanographers links ocean variability to ice sheet stability. My foundation in atmospheric science also contributes to this integrative perspective, from Arctic climatology to Antarctic mass loss.</p>
   </div>
 
   <div style="flex-shrink: 0;">
@@ -20,5 +22,6 @@ permalink: /research/integrative
   </div>
 
 </div>
+
 
 
