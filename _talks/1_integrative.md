@@ -18,7 +18,7 @@ permalink: /research/integrative
   </div>
 
   <div style="flex-shrink: 0; display: flex; align-items: center; justify-content: flex-end;">
-    <img src="/images/integrative.png" alt="Polar Geoscience Icon" style="width: 450px;">
+    <img src="/images/integrative.png" alt="Polar Geoscience Icon" style="width: 450px;  border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   </div>
 
 </div>
