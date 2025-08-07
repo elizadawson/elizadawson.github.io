@@ -9,7 +9,7 @@ permalink: /research/integrative
 ---
 <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-top: 1em;">
 
-  <div style="flex: 1; padding-right: 20px;">
+  <div style="flex: 1; padding-right: 20px; font-size: 0.9em;">
     <p>Guided by this philosophy, I develop tools to extract deeper physical insight from geophysical observations—insight that can be directly incorporated into ice sheet models to reduce uncertainty in complex, poorly constrained processes. For example, I recently developed a new approach for estimating radar attenuation and ice temperature, adapted from seismology, that expands where and how we can extract physical properties from radar data.</p>
 
     <p>I am also leading a review paper aimed at unifying Earth and planetary perspectives on radar attenuation to establish a shared physical framework across disciplines. Despite significant technical overlap, these fields rarely interact, and this effort draws from both glaciological and planetary radar communities to highlight common challenges and opportunities across icy worlds.</p>
