@@ -13,17 +13,32 @@ I focus on developing methods that combine geophysical observations and numerica
 
 I completed my PhD in the [Stanford Radioglaciology Lab](https://www.radioglaciology.com/) under the supervision of Dr. Dusty Schroeder, where I developed techniques for extracting physical insights from radar sounding data in conjunction with ice sheet modeling. I am currently hosted by Dr. Winnie Chu at the [Georgia Institute of Technology](https://glacier-geophys.eas.gatech.edu/), where I continue to connect Earth science and data science to improve predictive models of ice sheet change in a warming climate.
 
-<!-- <div class="center-button">
-  <a href="/research/" class="btn btn-icon" title="Go to Research Areas">
-    See Research Areas
-  </a>
-</div>
-
-<img src="images/about_image.jpeg" alt="ice is nice" style="max-width: 100%; height: auto; margin-top: 20px;"> -->
-
-<div class="image-overlay-container">
+<!-- <div class="image-overlay-container">
   <img src="images/about_image.jpeg" alt="ice is nice">
   <a href="/research/" class="btn btn-icon overlay-button" title="See Research Areas" style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%);">
   See Research Areas
+  </a>
+</div> -->
+
+<style>
+.image-overlay-container img {
+  border-radius: 8px; /* rounded corners */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* soft shadow */
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.image-overlay-container img:hover {
+  transform: translateY(-4px); /* gentle lift on hover */
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); /* slightly stronger shadow */
+}
+</style>
+
+<div class="image-overlay-container" style="position: relative; display: inline-block;">
+  <img src="images/about_image.jpeg" alt="ice is nice" style="width: 100%; height: auto;">
+  <a href="/research/"
+     class="btn btn-icon overlay-button"
+     title="See Research Areas"
+     style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%);">
+     See Research Areas
   </a>
 </div>
