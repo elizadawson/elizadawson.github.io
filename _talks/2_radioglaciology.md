@@ -9,7 +9,7 @@ permalink: /research/glaciergeophysics
 
   <!-- Left side: Figure -->
   <div style="flex-shrink: 0; display: flex; align-items: center; justify-content: flex-start; padding-right: 20px;">
-    <img src="/images/radar.png" alt="Radar sounding schematic" style="width: 450px;">
+    <img src="/images/radar.png" alt="Radar sounding schematic" style="width: 500px;">
   </div>
 
   <!-- Right side: Text -->
