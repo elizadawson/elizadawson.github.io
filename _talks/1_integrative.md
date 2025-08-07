@@ -1,5 +1,5 @@
 ---
-title: "Integrated polar geoscience"
+title: "Integrated Polar Geoscience"
 collection: talks
 type: "Talk"
 permalink: /research/integrative
