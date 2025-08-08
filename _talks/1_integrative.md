@@ -10,13 +10,13 @@ permalink: /research/integrative
 <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 1em;">
 
   <div style="flex: 1; padding-right: 20px; font-size: 0.85em;">
-    <p>My work focuses on developing tools to extract deeper physical insight from geophysical observations—insight that can be directly incorporated into numerical models to reduce uncertainty in complex, poorly constrained ice processes. For example, I recently developed a new approach for estimating radar attenuation and ice temperature, adapted from seismology, that expands where and how physical properties can be derived from radar data.</p>
+    <p>My work develops new tools to turn geophysical observations into model-ready constraints, advancing predictions of ice sheet behavior and reducing uncertainty in poorly understood processes. This often involves borrowing and adapting methods from other fields to answer glaciological questions. For example, I applied a spectral analysis technique from seismology to harness the full radar frequency spectrum for estimating ice temperature, marking its first application in radar sounding.</p>
 
-    <p>Connecting communities across disciplines is also central component. One example is a review paper I am leading that unifies Earth and planetary perspectives on radar attenuation to establish a shared physical framework. Despite significant technical overlap, these fields rarely interact, and this effort draws from both glaciological and planetary radar communities to highlight common challenges and opportunities across icy worlds.</p>
+    <p>Bridging communities and ideas across disciplines is central to my work. I am currently leading a synthesis that brings together Earth and planetary perspectives on radar attenuation into a shared physical framework. Although these fields face similar technical challenges, the communities rarely interact. This work draws on both glaciological and planetary radar expertise to identify common needs and opportunities across icy worlds.</p>
 
-    <p>Across all of my work, I pursue a systems-level approach to understanding ice sheet change, integrating surface, basal, and margin processes with external climate drivers. Collaborations with planetary radar scientists and oceanographers support this effort, connecting radar signal behavior, ice–ocean interaction, and broader climate dynamics. My background in atmospheric science also informs this interdisciplinary perspective, from Arctic climatology to Antarctic mass loss.</p>
+    <p>I take a systems-level view of ice sheet change, linking surface, basal, and margin processes with external climate drivers. Collaborations with planetary radar scientists and oceanographers connect radar signal behavior and ice–ocean interactions, while my atmospheric science background informs my climate perspective from Arctic energy budgets to Antarctic ice sheet mass loss.</p>
   </div>
-
+  
   <div style="flex-shrink: 0; display: flex; align-items: center; justify-content: flex-end;">
     <img src="/images/integrative.png" alt="Polar Geoscience Icon" style="width: 450px;  border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   </div>
