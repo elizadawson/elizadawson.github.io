@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a [NOAA Climate and Global Change Postdoctoral Fellow](https://cpaess.ucar.edu/cgc/current-awards-alumni) studying the processes that govern the evolution of Earth’s ice sheets and their potential to drive unstable ice loss and sea level rise. My research brings together observational datasets and ice sheet models to better understand how subglacial and englacial conditions influence ice dynamics across Antarctica and Greenland.
+I am a [NOAA Climate and Global Change Postdoctoral Fellow](https://cpaess.ucar.edu/cgc/current-awards-alumni) studying the processes that will shape the future of Earth’s ice sheets and their role in global sea level rise. My research links geophysical observations with numerical models to quantify processes that are difficult to measure directly, such as the thermal conditions and hydrologic feedbacks at the base of ice sheets that can accelerate ice flow and drive instability.
 
-I focus on developing methods that combine geophysical observations and numerical modeling to quantify processes that are difficult to observe directly. These include thermal and hydrologic feedbacks beneath ice sheets that can strongly modulate ice flow but remain poorly constrained due to the inaccessibility of the polar environment.
-
-I completed my PhD in the [Stanford Radioglaciology Lab](https://www.radioglaciology.com/) under the supervision of Dr. Dusty Schroeder, where I developed techniques for extracting physical insights from radar sounding data in conjunction with ice sheet modeling. I am currently hosted by Dr. Winnie Chu at the [Georgia Institute of Technology](https://glacier-geophys.eas.gatech.edu/), where I continue to connect Earth science and data science to improve predictive models of ice sheet change in a warming climate.
+I completed my PhD in the [Stanford Radioglaciology Lab](https://www.radioglaciology.com/) under the supervision of Dr. Dusty Schroeder, where I developed new techniques for extracting physical insights from radar sounding data and used ice sheet models to reveal subsurface conditions. Now, as a postdoctoral researcher hosted by Dr. Winnie Chu at the [Georgia Institute of Technology](https://glacier-geophys.eas.gatech.edu/), I am combining these skills into integrated approaches that connect field observations, advanced analytical methods, and numerical modeling to strengthen projections of ice sheet responses to climate change.
 
 <!-- <div class="image-overlay-container">
   <img src="images/about_image.jpeg" alt="ice is nice">
