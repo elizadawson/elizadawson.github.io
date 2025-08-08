@@ -6,10 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a [NOAA Climate and Global Change Postdoctoral Fellow](https://cpaess.ucar.edu/cgc/current-awards-alumni) studying the processes that will shape the future of Earth’s ice sheets and their contribution to global sea level rise. I am inspired by the intersection of exploration, discovery, and the urgent need to understand Earth’s changing ice.
 
-I am a [NOAA Climate and Global Change Postdoctoral Fellow](https://cpaess.ucar.edu/cgc/current-awards-alumni) studying the processes that will shape the future of Earth’s ice sheets and their role in global sea level rise. My research links geophysical observations with numerical models to quantify processes that are difficult to measure directly, such as the thermal conditions and hydrologic feedbacks at the base of ice sheets that can accelerate ice flow and drive instability.
-
-I completed my PhD in the [Stanford Radioglaciology Lab](https://www.radioglaciology.com/) under the supervision of Dr. Dusty Schroeder, where I developed new techniques for extracting physical insights from radar sounding data and used ice sheet models to reveal subsurface conditions. Now, as a postdoctoral researcher hosted by Dr. Winnie Chu at the [Georgia Institute of Technology](https://glacier-geophys.eas.gatech.edu/), I integrate field observations, advanced analytical methods, and numerical modeling to improve projections of ice sheet response to climate change.
+As a postdoctoral researcher hosted by Dr. Winnie Chu at the [Georgia Institute of Technology](https://glacier-geophys.eas.gatech.edu/), I link geophysical observations with numerical models to investigate hard-to-measure processes that are critical for predicting ice flow accelerations and instability. I completed my PhD in the [Stanford Radioglaciology Lab](https://www.radioglaciology.com/) under Dr. Dusty Schroeder, where I developed techniques to extract physical insights from radar sounding data and used ice sheet models to reveal subsurface conditions.
 
 <!-- <div class="image-overlay-container">
   <img src="images/about_image.jpeg" alt="ice is nice">
