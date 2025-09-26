@@ -1,20 +1,11 @@
 ---
 title: "Teaching in the Arctic Circle"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I visited the University Center in Svalbard, Norway (UNIS) as a teacher for the Arctic Geophysics Course, introducing students to ground based and drone based radar surveying and assisting with active seismic surveys.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="/images/teaching/svalbard1.jpg" style="width: 30%; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <img src="/images/teaching/svalbard2.jpg" style="width: 30%; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+</div>
