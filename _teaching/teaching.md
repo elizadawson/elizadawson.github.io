@@ -1,11 +1,8 @@
 ---
-layout: single
-title: "Teaching"
-permalink: /teaching/
-author_profile: true
+collection: teaching
 ---
 
-I have contributed to undergraduate and field-based geoscience education across multiple institutions. As a teaching assistant for *Introduction to the Foundations of Contemporary Geophysics* in 2019 and 2020, I supported lectures and led practical sessions on radar, seismic, gravity, and magnetic methods. In 2023, I helped teach the Arctic Geophysics course at UNIS, guiding students in radar surveying with ground and UAV systems and assisting with active seismic work on glaciers and permafrost terrain. During my PhD, I also served as a Graduate Teaching Liaison, leading pedagogy workshops, mentoring new TAs, and fostering inclusive classroom culture. These experiences shaped my focus on hands-on learning, peer-to-peer engagement, and mentoring students as they connect classroom theory with real-world problems.
+I have contributed to undergraduate and field-based geoscience education across multiple institutions. As a teaching assistant for *Introduction to Geophysics* at Stanford University, I supported lectures and led practical sessions on radar, seismic, gravity, and magnetic methods. I also helped teach the Arctic Geophysics course at UNIS, guiding students in radar surveying with ground and UAV systems and assisting with active seismic work on glaciers and permafrost terrain. During my PhD, I also served as a Graduate Teaching Liaison, leading pedagogy workshops, mentoring new TAs, and fostering inclusive classroom culture. These experiences shaped my focus on hands-on learning, peer-to-peer engagement, and mentoring students as they connect classroom learnings with real-world problems.
 
 ## Teaching Geophysics in the Mojave Dessert
 
