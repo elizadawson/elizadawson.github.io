@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Geophysics in the Mojave Desert"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+As a teaching assistant for Stanford’s undergraduate introduction to geophysics course, I taught students how to conduct radar, gravity, and magnetic surveys in California's Mojave Desert, guiding them through data aquisition, processing and interpretation.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+<div style="flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
+  <img src="/images/teaching/mojave.jpeg" style="width: 450px; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+</div>
