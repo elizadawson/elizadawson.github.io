@@ -14,11 +14,12 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Teaching"
+    url: /teaching/  
+  
+  - title: "Fieldwork"
+    url: /fieldwork/
     
-  # - title: "Teaching"
-  #   url: /teaching/    
         
   # - title: "Blog Posts"
   #   url: /year-archive/
