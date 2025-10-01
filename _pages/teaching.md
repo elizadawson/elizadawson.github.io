@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Teaching"
+title: "Teaching, Mentoring, and Service"
 permalink: /teaching/
 author_profile: true
 ---
