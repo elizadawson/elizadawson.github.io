@@ -10,9 +10,9 @@ permalink: /research/integrative
 <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 1em;">
 
   <div style="flex: 1; padding-right: 20px; font-size: 0.85em;">
-    <p>I turn geophysical observations into model-ready constraints to improve predictions of ice sheet behavior and reduce uncertainty in poorly understood processes. My work often adapts techniques from other fields to answer glaciological questions. For example, I introduced a spectral analysis method from seismology to radar sounding, using the full radar frequency spectrum to estimate ice temperature in its first application to this setting.</p>
+    <p>I turn geophysical observations into model-ready constraints to improve predictions of ice sheet behavior and reduce uncertainty in poorly understood processes. My work often adapts techniques from other fields to answer glaciological questions, such as introducing the spectral analysis method from seismology to radar sounding. I used the full radar frequency spectrum to estimate ice temperature, its first application in this setting.</p>
 
-   <p>Connecting ideas across disciplines is a central theme as well. I am leading a synthesis that unites Earth and planetary perspectives on radar attenuation in ice within a shared physical framework. These communities face similar technical challenges but have developed in parallel. Identifying common needs and opportunities across icy worlds is helping bring them together.</p>
+   <p>Connecting ideas across disciplines is also essential. I am leading a synthesis that unites Earth and planetary perspectives on radar attenuation in ice within a shared physical framework. These communities face similar technical challenges but have developed in parallel. Identifying common needs and opportunities across icy worlds is helping bring them together.</p>
    
    <p>I take a systems view of ice sheet change, linking surface, basal, and margin processes with external climate drivers. I collaborate with oceanographers to connect radar observations to ice–ocean interactions, and my atmospheric science background informs how I consider climate forcing as a driver of cryosphere change.</p>
   </div>
