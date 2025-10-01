@@ -12,7 +12,7 @@ My teaching experience spans undergraduate, graduate, and field-based geoscience
 </div>
 
 ### Teaching Snapshot
-- Undergraduate and graduate geoscience courses at Stanford and the University Centre in Svalbard (UNIS)
+- Undergraduate and graduate courses at Stanford and the University Centre in Svalbard (UNIS)
 - Field instruction in the Mojave Desert, Svalbard, and Iceland
 - Graduate Teaching Liaison at Stanford University
 - Service on the AGU Cryosphere Section Committee and Outstanding Student Presentation Awards (OSPA)
