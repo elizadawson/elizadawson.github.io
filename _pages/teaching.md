@@ -12,11 +12,12 @@ My teaching experience spans undergraduate, graduate, and field-based geoscience
 </div>
 
 ### Teaching Snapshot
-- Undergraduate and graduate courses at Stanford and the University Centre in Svalbard (UNIS)
+- Undergraduate and graduate courses at Stanford and the University Centre in Svalbard
 - Field instruction in the Mojave Desert, Svalbard, and Iceland
 - Graduate Teaching Liaison at Stanford University
-- Service on the AGU Cryosphere Section Committee and Outstanding Student Presentation Awards (OSPA)
-- Guest lectures on radar methods, ice dynamics, and computational geoscience
+- Service on the AGU Cryosphere Section Committee
+- Coordinator of Cryosphere Outstanding Student Presentation Awards (OSPA)
+- Guest lectures on topics ranging from radar methods to ice and climate dynamics
 
 ### Student Mentoring
 I have mentored undergraduate and graduate students on projects ranging from radar data processing to ice sheet and ocean modeling. My mentees have presented at AGU, advanced to graduate programs, and secured competitive fellowships. I emphasize guided yet open-ended research questions, reproducible workflows, and skill-building that prepare students for both academic and industry paths.
@@ -32,7 +33,7 @@ At Stanford, I served as a Graduate Teaching Liaison for the School of Sustainab
 
 I teach and mentor students in field geophysics, helping them connect theory to practice in challenging environments from deserts to polar regions.
 
-### Arctic Geophysics at UNIS, Svalbard
+### Arctic Geophysics at the University Centre in Svalbard (UNIS)
 I taught in the Arctic Geophysics Course at UNIS, introducing students to radar surveying with ground and UAV systems and assisting with active seismic work on glaciers and permafrost terrain.
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
