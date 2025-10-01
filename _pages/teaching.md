@@ -22,12 +22,12 @@ My teaching experience spans undergraduate, graduate, and field-based geoscience
 ### Student Mentoring
 I have mentored undergraduate and graduate students on projects ranging from radar data processing to ice sheet and ocean modeling. My mentees have presented at AGU, advanced to graduate programs, and secured competitive fellowships. I emphasize guided yet open-ended research questions, reproducible workflows, and skill-building that prepare students for both academic and industry paths.
 
-### Teaching Development & Service
-At Stanford, I served as a Graduate Teaching Liaison for the School of Sustainability, where I organized pedagogy workshops, coached new TAs, and helped build an inclusive classroom culture. I also serve on the American Geophysical Union’s Cryosphere Section Committee and lead the Outstanding Student Presentation Awards (OSPA) program, providing students with presentation feedback and recognition of achievement.
-
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="/images/teaching/classroom.jpeg" style="width: 50%; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </div>
+
+### Teaching Development & Service
+At Stanford, I served as a Graduate Teaching Liaison for the School of Sustainability, where I organized pedagogy workshops, coached new TAs, and helped build an inclusive classroom culture. I also serve on the American Geophysical Union’s Cryosphere Section Committee and lead the Outstanding Student Presentation Awards (OSPA) program, providing students with presentation feedback and recognition of achievement.
 
 ## Field Course Highlights
 
