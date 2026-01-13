@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "Ice flow simulations that identify key data needs"
 collection: talks
 type: "Talk"
@@ -19,4 +19,4 @@ permalink: /research/simulations
     <img src="/images/thermal.png" alt="Simulation Icon" style="width: 400px; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   </div>
 
-</div> --> -->
+</div>
