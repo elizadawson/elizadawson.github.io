@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Glacier Geophysics"
 collection: talks
 type: "Talk"
@@ -20,6 +20,6 @@ permalink: /research/glaciergeophysics
     <p>For example, I developed a statistical framework to classify frozen and thawed bed conditions beneath the outflow of the Wilkes Subglacial Basin in East Antarctica, along with confidence estimates for each classification. <a href="/publications/#publication-2024-Dawson">This analysis</a> not only revealed variable basal conditions in a region critical to East Antarctica's stability but also marked the first radar-based assessment of subglacial thermal state in this region. These findings were covered in <a href="https://engineering.stanford.edu/news/currently-stable-parts-east-antarctica-may-be-closer-melting-anyone-realized#:~:text=Environment-,Currently%20stable%20parts%20of%20East%20Antarctica%20may%20be%20closer%20to,in%20the%20Wilkes%20Subglacial%20Basin." target="_blank">Stanford Engineering News</a>. By turning radar observations into physically interpretable classifications, this work opens the door to using thermal state maps as direct constraints in ice sheet models.</p>
   </div>
 
-</div>
+</div> -->
 
 
