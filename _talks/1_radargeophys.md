@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "Geophysical imaging of the ice sheet subsurface"
 collection: talks
 type: "Talk"
@@ -25,6 +25,6 @@ permalink: /research/radargeophs
 
   <div style="clear: both;"></div>
 
-</div> -->
+</div>
 
 
