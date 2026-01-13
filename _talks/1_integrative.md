@@ -15,9 +15,9 @@ permalink: /research/integrative
     <p>I take a systems view of ice sheet change and I firmly believe that crossing disciplinary boundaries drives new understanding. I link observed ice sheet behavior to external climate drivers, collaborating with oceanographers to connect ice sheet radar observations to ocean forcing, while my atmospheric science background shapes how I view climate forcing as a driver of cryosphere change. This cross disciplinary perspective extends beyond the Earth system. While my own work focuses on terrestrial glaciology, I led a synthesis that brought together Earth and planetary perspectives on radar attenuation in ice within a shared physical framework, showing how communities that face similar technical challenges can advance together by sharing tools and questions across icy worlds.</p>
   </div>
   
-  <div style="flex-shrink: 0; display: flex; align-items: center; justify-content: flex-end;">
+  <!-- <div style="flex-shrink: 0; display: flex; align-items: center; justify-content: flex-end;">
     <img src="/images/integrative.png" alt="Polar Geoscience Icon" style="width: 450px;  border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-  </div>
+  </div> -->
 
 </div>
 
