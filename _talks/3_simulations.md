@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "Ice flow simulations that identify key data needs"
 collection: talks
 type: "Talk"
