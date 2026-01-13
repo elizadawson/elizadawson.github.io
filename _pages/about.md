@@ -6,9 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a [NOAA Climate and Global Change Postdoctoral Fellow](https://cpaess.ucar.edu/cgc/current-awards-alumni) studying the processes that will shape the future of Earth’s ice sheets and their role in global sea level rise. I am inspired by the intersection of exploration, discovery, and the urgent need to understand Earth’s changing ice.
 
-As a postdoctoral researcher hosted by Dr. Winnie Chu at the [Georgia Institute of Technology](https://glacier-geophys.eas.gatech.edu/), I connect geophysical observations with numerical models to investigate hard-to-measure processes that are critical for predicting ice flow accelerations and instability. I completed my PhD in the [Stanford Radioglaciology Lab](https://www.radioglaciology.com/) under Dr. Dusty Schroeder, where I developed techniques to extract physical insights from radar sounding data and used ice sheet models to reveal subsurface conditions.
+My work focuses on unresolved processes at the ice sheet base that could drive ice flow accelerations, instabilities, and future sea level rise. I am a [NOAA Climate and Global Change Postdoctoral Fellow](https://cpaess.ucar.edu/cgc/current-awards-alumni) hosted by Dr. Winnie Chu at [Georgia Tech](https://glacier-geophys.eas.gatech.edu/), where I work to integrate radar sounding datasets and numerical ice sheet models to better constrain these processes. I completed my PhD in Geophysics in the [Stanford Radioglaciology Lab](https://www.radioglaciology.com/) with Dr. Dusty Schroeder, where I developed radar and modeling tools that now anchor this integrative approach. I am inspired by the intersection of exploration, discovery, and the urgent need to understand Earth changing ice.
+
+
+<!-- I am a [NOAA Climate and Global Change Postdoctoral Fellow](https://cpaess.ucar.edu/cgc/current-awards-alumni) studying the processes that will shape the future of Earth’s ice sheets and their role in global sea level rise. I am inspired by the intersection of exploration, discovery, and the urgent need to understand Earth’s changing ice.
+
+As a postdoctoral researcher hosted by Dr. Winnie Chu at the [Georgia Institute of Technology](https://glacier-geophys.eas.gatech.edu/), I connect geophysical observations with numerical models to investigate hard-to-measure processes that are critical for predicting ice flow accelerations and instability. I completed my PhD in the [Stanford Radioglaciology Lab](https://www.radioglaciology.com/) under Dr. Dusty Schroeder, where I developed techniques to extract physical insights from radar sounding data and used ice sheet models to reveal subsurface conditions. -->
 
 <!-- <div class="image-overlay-container">
   <img src="images/about_image.jpeg" alt="ice is nice">
