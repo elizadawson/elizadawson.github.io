@@ -1,5 +1,5 @@
 ---
-title: "Integrated Polar Geoscience"
+title: "Cross Disciplinary Cryosphere Science"
 collection: talks
 type: "Talk"
 permalink: /research/integrative
@@ -10,9 +10,9 @@ permalink: /research/integrative
 <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 1em;">
 
   <div style="flex: 1; padding-right: 20px; font-size: 0.85em;">
-    <p>I turn geophysical observations into model-ready constraints to improve predictions of ice sheet behavior and reduce uncertainty in poorly understood processes. My work often adapts techniques from other fields to answer glaciological questions, such as introducing the spectral analysis method from seismology to radar sounding. I used the full radar frequency spectrum to estimate ice temperature, its first application in this setting.</p>
+    <p>I turn geophysical observations into model ready constraints to improve predictions of ice sheet behavior and reduce uncertainty in poorly understood processes. My work often adapts techniques from other fields to extract more information from geophysical datasets, for example bringing spectral analysis from seismology into radar sounding and applying quantitative methods to estimate englacial and subglacial temperatures directly from radar data. My approach is to then couple these rich observations with inversion frameworks that translate them into basal conditions and parameters for ice sheet models, closing the gap between what we can measure and how we simulate ice flow.</p>
 
-    <p>Crossing disciplinary boundaries drives new understanding. I led a synthesis that brought together Earth and planetary perspectives on radar attenuation in ice within a shared physical framework. These communities face similar technical challenges but have developed in parallel, and identifying common needs and opportunities across icy worlds is helping to bring them together.</p>
+    <p>I take a systems view of ice sheet change and I firmly believe that crossing disciplinary boundaries drives new understanding. I link observed ice sheet behavior to external climate drivers, collaborating with oceanographers to connect ice sheet radar observations to ocean forcing, while my atmospheric science background shapes how I view climate forcing as a driver of cryosphere change. This cross disciplinary perspective extends beyond the Earth system. While my own work focuses on terrestrial glaciology, I led a synthesis that brought together Earth and planetary perspectives on radar attenuation in ice within a shared physical framework, showing how communities that face similar technical challenges can advance together by sharing tools and questions across icy worlds.</p>
   </div>
   
   <div style="flex-shrink: 0; display: flex; align-items: center; justify-content: flex-end;">
@@ -20,9 +20,5 @@ permalink: /research/integrative
   </div>
 
 </div>
-
-<p style="margin-top:1em; font-size:0.85em;">
-  I take a systems view of ice sheet change, linking surface, basal, and margin processes with external climate drivers. I collaborate with oceanographers to connect radar observations to ice–ocean interactions, and my atmospheric science background informs how I consider climate forcing as a driver of cryosphere change.
-</p>
 
 
