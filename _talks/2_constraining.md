@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Turning observations into model ready constraints"
 collection: talks
 type: "Talk"
@@ -12,7 +12,7 @@ permalink: /research/constraints
 
   <div style="clear: both;"></div>
 
-</div>
+</div> -->
 
 
 
