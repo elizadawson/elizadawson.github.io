@@ -3,9 +3,6 @@ title: "Geophysical imaging of the ice sheet subsurface"
 collection: talks
 type: "Talk"
 permalink: /research/radargeophs
-# venue: "UC San Francisco, Department of Testing"
-# date: 2012-03-01
-# location: "San Francisco, California"
 ---
 <div style="font-size: 0.85em; margin-top: 1em;">
 
@@ -24,7 +21,14 @@ permalink: /research/radargeophs
   </p>
 
   <div style="clear: both;"></div>
+</div>
 
+## Turning observations into model ready constraints
+
+<div style="font-size: 0.85em; margin-top: 0.5em;">
+  <p>
+    Add your next paragraph here.
+  </p>
 </div>
 
 
