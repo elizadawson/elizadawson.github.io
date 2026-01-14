@@ -53,7 +53,7 @@ permalink: /research/radargeophs
   </p>
 
   <p>
-    <a href="/publications/#publication-2022-Dawson">My research in <em>Nature Communications</em></a> used ISSM to show that modest basal warming in near melt regions can greatly reduce basal friction and increase ice discharge in parts of East Antarctica often treated as stable. This links basal thermal constraints to where future ice loss can accelerate and helps identify regions where observations are most needed.
+    My research in<a href="/publications/#publication-2022-Dawson"><em>Nature Communications</em></a> used ISSM to show that modest basal warming in near melt regions can greatly reduce basal friction and increase ice discharge in parts of East Antarctica often treated as stable. This links basal thermal constraints to where future ice loss can accelerate and helps identify regions where observations are most needed.
   </p>
 
   <div style="clear: both;"></div>
