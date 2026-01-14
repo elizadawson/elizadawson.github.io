@@ -68,11 +68,11 @@ permalink: /research/radargeophs
   </p>
 
   <p>
-    Fortunately there are extensive radar sounding datasets across the Antarctic and Greenland ice sheets and radar sounding data is sensitive to internal layering all the way to the base of the ice sheet, even in parts of Antarctica where there is ice over 4 km thick. I apply a range of methods, ranging from geophysical to statistical and machine learning techniques, to extract more physical information from radar sounding datasets, and where no method is available, I design <a href="/publications/#publication-2026-Dawson">new methods</a> to extract more from radar data. 
+    Fortunately there are extensive radar sounding datasets across the Antarctic and Greenland ice sheets and radar sounding data is sensitive to internal layering all the way to the base of the ice sheet, even in parts of Antarctica where there is ice over 4 km thick. I apply a range of methods, from geophysical to statistical and machine learning techniques, to extract more physical information from radar sounding datasets. Where there is no viable method, I design new methods to extract more from radar data, such as <a href="/publications/#publication-2026-Dawson">englacial attenuation and temperature using spectral analysis </a>. 
   </p>
 
   <p>    
-    My <a href="/publications/#publication-2024-Dawson">work in <em>Geophysical Research Letters</em></a> classifies frozen and thawed bed conditions beneath the outflow of the Wilkes Subglacial Basin, producing a novel radar derived thermal state assessment for a region central to East Antarctica stability. I also estimate ice sheet englacial temperature from radar echoes across large regions of the Antarctic and Greenland interior, providing a comparison to borehole measurements, model output, and other geophysical estimates.
+    My <a href="/publications/#publication-2024-Dawson">work in <em>Geophysical Research Letters</em></a> classifies frozen and thawed bed conditions beneath the outflow of the Wilkes Subglacial Basin, producing a novel radar-derived thermal state assessment for a region central to East Antarctica stability.
   </p>
 
   <h3 style="font-size: 1.05rem; margin-top: 0.9em; margin-bottom: 0.35em;">
