@@ -79,7 +79,7 @@ permalink: /research/radargeophs
     In the news
   </h3>
 
-  <ul style="margin-top: 0; padding-left: 1.2em;">
+  <ul style="margin-top: 0; padding-left: 2.2em;">
     <li><a href="https://news.stanford.edu/stories/2024/02/stable-parts-east-antarctica-ice-may-close-melting" target="_blank" rel="noopener">Currently stable parts of East Antarctica may be closer to melting than anyone realized</a></li>
     <li><a href="https://englacial.org/posts/20251216-living-data-products/ldp.html" target="_blank" rel="noopener">Announcing our Living Data Products awardees</a></li>
   </ul>
