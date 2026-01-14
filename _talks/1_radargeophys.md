@@ -42,7 +42,7 @@ permalink: /research/radargeophs
        alt=""
        style="
          float: left;
-         width: 400px;
+         width: 450px;
          margin: 0 1.5em 0.5em 0;
          border-radius: 6px;
          box-shadow: 0 4px 12px rgba(0,0,0,0.15);
@@ -69,7 +69,7 @@ permalink: /research/radargeophs
        alt=""
        style="
          float: right;
-         width: 450px;
+         width: 400px;
          margin: 0 0 0.5em 1.5em;
          border-radius: 6px;
          box-shadow: 0 4px 12px rgba(0,0,0,0.15);
