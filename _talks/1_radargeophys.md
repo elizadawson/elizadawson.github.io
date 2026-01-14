@@ -30,15 +30,14 @@ permalink: /research/radargeophs
   </p>
 
   <img src="/images/research/thermal.png"
-      alt=""
-      style="
-        display: block;
-        width: 800px;
-        max-width: 100%;
-        margin: 0.5em auto;
-        border-radius: 6px;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-      ">
+       alt=""
+       style="
+         float: left;
+         width: 500px;
+         margin: 0 1.5em 0.5em 0;
+         border-radius: 6px;
+         box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+       ">
 
   <div style="clear: both;"></div>
 </div>
@@ -86,7 +85,7 @@ permalink: /research/radargeophs
        style="
          float: right;
          width: 450px;
-         margin: 0 1.5em 0.5em 0;
+         margin: 0 0 0.5em 1.5em;
          border-radius: 6px;
          box-shadow: 0 4px 12px rgba(0,0,0,0.15);
        ">
@@ -116,8 +115,8 @@ permalink: /research/radargeophs
        alt=""
        style="
          float: left;
-         width: 450px;
-         margin: 0 0 0.5em 1.5em;
+         width: 400px;
+         margin: 0 1.5em 0.5em 0;
          border-radius: 6px;
          box-shadow: 0 4px 12px rgba(0,0,0,0.15);
        ">
