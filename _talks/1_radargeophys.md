@@ -76,7 +76,7 @@ permalink: /research/radargeophs
        ">
 
   <p>
-    Ice sheets respond to both internal basal physics and external forcing. I work with oceanographers and climate scientists to connect the observed basal state to ice shelf melt, grounding zone risk and ocean and atmospheric drivers, using geophysical constraints to guide idealized and targeted modeling.
+    Ice sheets respond to both internal physical changes and external forcing. I work with oceanographers and climate scientists to connect basal state and ice shelf melt to the ocean and atmospheric drivers that control heat transport towards Earth's ice sheets, using geophysical constraints to guide idealized and targeted modeling. This connects subsurface observations to the external forcing that ultimately drives mass loss.
   </p>
 
   <div style="clear: both;"></div>
