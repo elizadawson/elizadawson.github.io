@@ -30,5 +30,54 @@ permalink: /research/radargeophs
   </p>
 
   <div style="clear: both;"></div>
+</div>
 
+<h2 style="font-size: 1.35em; margin-top: 1.2em; margin-bottom: 0.4em;">
+  Ice flow simulations that identify key data needs
+</h2>
+
+<div style="font-size: 0.85em; margin-top: 0.5em;">
+
+  <img src="/images/thermal.png"
+       alt=""
+       style="
+         float: left;
+         width: 400px;
+         margin: 0 1.5em 0.5em 0;
+         border-radius: 6px;
+         box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+       ">
+
+  <p>
+    I use process based modeling to test how sensitive ice loss is to poorly observed basal conditions and to identify which measurements will most reduce projection uncertainty.
+  </p>
+
+  <p>
+    <a href="/publications/#publication-2022-Dawson">My research in <em>Nature Communications</em></a> used ISSM to show that modest basal warming in near melt regions can greatly reduce basal friction and increase ice discharge in parts of East Antarctica often treated as stable. This links basal thermal constraints to where future ice loss can accelerate and helps identify regions where observations are most needed.
+  </p>
+
+  <div style="clear: both;"></div>
+</div>
+
+<h2 style="font-size: 1.35em; margin-top: 1.2em; margin-bottom: 0.4em;">
+  Cross system perspective spanning cryosphere, climate, and ocean forcing
+</h2>
+
+<div style="font-size: 0.85em; margin-top: 0.5em;">
+
+  <img src="/images/integrative.png"
+       alt=""
+       style="
+         float: right;
+         width: 450px;
+         margin: 0 0 0.5em 1.5em;
+         border-radius: 6px;
+         box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+       ">
+
+  <p>
+    Ice sheets respond to both internal basal physics and external forcing. I work with oceanographers and climate scientists to connect the observed basal state to ice shelf melt, grounding zone risk and ocean and atmospheric drivers, using geophysical constraints to guide idealized and targeted modeling.
+  </p>
+
+  <div style="clear: both;"></div>
 </div>
