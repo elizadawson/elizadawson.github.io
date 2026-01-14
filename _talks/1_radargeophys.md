@@ -123,7 +123,7 @@ permalink: /research/radargeophs
        alt=""
        style="
          display: block;
-         width: 550px;
+         width: 650px;
          max-width: 100%;
          margin: 0.75em auto 0;
          border-radius: 6px;
