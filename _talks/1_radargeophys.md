@@ -112,7 +112,7 @@ permalink: /research/radargeophs
 <div style="font-size: 0.85em; margin-top: 0.5em;">
 
   <p>
-    There is a constant tradeoff between trying to improve and reduce uncertainty in sea level rise projections from leading ice sheet models, and thinking outside the box and considering that their could be entirely unaccounted for mechanisms of ice loss that are completely missing in current projections of future sea level rise. I try to strike a balance in my work, considering unaccounted for mechanisms such as basal thaw driven mass loss, while developing geophysics based constraints that can be directly used to help ice sheet model inter-comparison efforts reduce uncertainty in future projections.
+    There is a productive tension between refining projections within existing modeling frameworks and asking whether key physics is absent from those frameworks. I try to do both in my work, considering unaccounted for mechanisms such as basal thaw driven mass loss, while developing geophysics based constraints that can be directly used to help ice sheet model inter-comparison efforts reduce uncertainty in future projections.
   </p>
 
   <p>
