@@ -63,7 +63,11 @@ permalink: /research/radargeophs
   </p>
 
   <p>
-    Fortunately there are extensive radar sounding datasets across the Antarctic and Greenland ice sheets and radar sounding data is sensitive to internal layering all the way to the base of the ice sheet, even in parts of Antarctica where there is ice over 4 km thick. I apply a range of methods, ranging from geophysical to statistical and machine learning techniques, to extract more physical information from radar sounding datasets, and where no method is available, I design new methods to extract more from radar data. 
+    Fortunately there are extensive radar sounding datasets across the Antarctic and Greenland ice sheets and radar sounding data is sensitive to internal layering all the way to the base of the ice sheet, even in parts of Antarctica where there is ice over 4 km thick. 
+  </p>
+
+  <p>    
+    I apply a range of methods, ranging from geophysical to statistical and machine learning techniques, to extract more physical information from radar sounding datasets, and where no method is available, I design new methods to extract more from radar data. 
   </p>
 
   <p>    
