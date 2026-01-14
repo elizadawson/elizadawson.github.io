@@ -11,7 +11,7 @@ permalink: /research/radargeophs
        alt=""
        style="
          float: right;
-         width: 450px;
+         width: 350px;
          margin: 0 0 0.5em 1.5em;
          border-radius: 6px;
          box-shadow: 0 4px 12px rgba(0,0,0,0.15);
@@ -53,7 +53,7 @@ permalink: /research/radargeophs
        alt=""
        style="
          float: left;
-         width: 450px;
+         width: 400px;
          margin: 0 1.5em 0.5em 0;
          border-radius: 6px;
          box-shadow: 0 4px 12px rgba(0,0,0,0.15);
@@ -64,8 +64,13 @@ permalink: /research/radargeophs
   </p>
 
   <p>
-    Fortunately there are extensive radar sounding datasets across the Antarctic and Greenland ice sheets and radar sounding data is sensitive to internal layering all the way to the the base of the ice sheet, even in parts of Antarctica where there is ice over 4km thick. I apply a range of methods, ranging from geophysical to statistical and machine learning techniques, to extract more physical information from radar sounding datasets, and where no method is available, I design new methods to extract more from radar data. My <a href="/publications/#publication-2024-Dawson">work in <em>Geophysical Research Letters<em></a>, classifies frozen and thawed bed conditions beneath the outflow of Wilkes Subglacial Basin, producing a novel radar-derived thermal state assessment for a region central to East Antarctica stability. I also estimate ice sheet <a href="/publications/#publication-2026-Dawson">englacial temperature from radar echoes</a> across large regions of the Antarctic and Greenland interior, providing a comparison to borehole measurements, model output, and other geophysical estimates.
+    Fortunately there are extensive radar sounding datasets across the Antarctic and Greenland ice sheets and radar sounding data is sensitive to internal layering all the way to the base of the ice sheet, even in parts of Antarctica where there is ice over 4 km thick. I apply a range of methods, ranging from geophysical to statistical and machine learning techniques, to extract more physical information from radar sounding datasets, and where no method is available, I design new methods to extract more from radar data. 
   </p>
+
+  <p>    
+    My <a href="/publications/#publication-2024-Dawson">work in <em>Geophysical Research Letters</em></a> classifies frozen and thawed bed conditions beneath the outflow of the Wilkes Subglacial Basin, producing a novel radar derived thermal state assessment for a region central to East Antarctica stability. I also estimate ice sheet <a href="/publications/#publication-2026-Dawson">englacial temperature from radar echoes</a> across large regions of the Antarctic and Greenland interior, providing a comparison to borehole measurements, model output, and other geophysical estimates.
+  </p>
+
 
   <div style="clear: both;"></div>
 </div>
@@ -110,7 +115,7 @@ permalink: /research/radargeophs
   <img src="/images/research/integrative.png"
        alt=""
        style="
-         float: right;
+         float: left;
          width: 450px;
          margin: 0 0 0.5em 1.5em;
          border-radius: 6px;
