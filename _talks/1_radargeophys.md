@@ -68,16 +68,21 @@ permalink: /research/radargeophs
   </p>
 
   <p>
-    Fortunately there are extensive radar sounding datasets across the Antarctic and Greenland ice sheets and radar sounding data is sensitive to internal layering all the way to the base of the ice sheet, even in parts of Antarctica where there is ice over 4 km thick. 
+    Fortunately there are extensive radar sounding datasets across the Antarctic and Greenland ice sheets and radar sounding data is sensitive to internal layering all the way to the base of the ice sheet, even in parts of Antarctica where there is ice over 4 km thick. I apply a range of methods, ranging from geophysical to statistical and machine learning techniques, to extract more physical information from radar sounding datasets, and where no method is available, I design <a href="/publications/#publication-2026-Dawson">new methods</a> to extract more from radar data. 
   </p>
 
   <p>    
-    I apply a range of methods, ranging from geophysical to statistical and machine learning techniques, to extract more physical information from radar sounding datasets, and where no method is available, I design new methods to extract more from radar data. 
+    My <a href="/publications/#publication-2024-Dawson">work in <em>Geophysical Research Letters</em></a> classifies frozen and thawed bed conditions beneath the outflow of the Wilkes Subglacial Basin, producing a novel radar derived thermal state assessment for a region central to East Antarctica stability. I also estimate ice sheet englacial temperature from radar echoes across large regions of the Antarctic and Greenland interior, providing a comparison to borehole measurements, model output, and other geophysical estimates.
   </p>
 
-  <p>    
-    My <a href="/publications/#publication-2024-Dawson">work in <em>Geophysical Research Letters</em></a> classifies frozen and thawed bed conditions beneath the outflow of the Wilkes Subglacial Basin, producing a novel radar derived thermal state assessment for a region central to East Antarctica stability. I also estimate ice sheet <a href="/publications/#publication-2026-Dawson">englacial temperature from radar echoes</a> across large regions of the Antarctic and Greenland interior, providing a comparison to borehole measurements, model output, and other geophysical estimates.
-  </p>
+  <h3 style="font-size: 1.05rem; margin-top: 0.9em; margin-bottom: 0.35em;">
+    In the news
+  </h3>
+
+  <ul style="margin-top: 0; padding-left: 1.2em;">
+    <li><a href="https://news.stanford.edu/stories/2024/02/stable-parts-east-antarctica-ice-may-close-melting" target="_blank" rel="noopener">Currently stable parts of East Antarctica may be closer to melting than anyone realized</a></li>
+    <li><a href="https://englacial.org/posts/20251216-living-data-products/ldp.html" target="_blank" rel="noopener">Announcing our Living Data Products awardees</a></li>
+  </ul>
 
 
   <div style="clear: both;"></div>
