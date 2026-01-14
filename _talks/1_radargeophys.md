@@ -22,11 +22,7 @@ permalink: /research/radargeophs
   </p>
 
   <p>
-    My research in <a href="/publications/#publication-2022-Dawson"><em>Nature Communications</em></a> used numerical modeling to show that small amounts of thawing at the base of the ice sheet in near melt regions could greatly reduce basal friction and increase ice discharge in parts of East Antarctica often treated as stable. This links basal thermal conditions to future ice loss vulnerability and identifies regions where observations are most needed. 
-  </p>
-
-  <p>
-    This is an important finding because leading ice sheet models used for future sea level rise projections have widely varying basal temperature fields. This implies that ice sheet model projections are not doing a good job of resolving the basal thermal state and therefore projections do not include ice loss related to basal thermal state mechanisms.
+    My research in <a href="/publications/#publication-2022-Dawson"><em>Nature Communications</em></a> used numerical modeling to show that small amounts of thawing at the base of the ice sheet in near melt regions could greatly reduce basal friction and increase ice discharge in parts of East Antarctica often treated as stable. This links basal thermal conditions to future ice loss vulnerability and identifies regions where observations are most needed. This is an important finding because leading ice sheet models used for future sea level rise projections have widely varying basal temperature fields. This implies that ice sheet model projections are not doing a good job of resolving the basal thermal state and therefore projections do not include ice loss related to basal thermal state mechanisms.
   </p>
 
   <h3 style="font-size: 1.05rem; margin-top: 0.9em; margin-bottom: 0.35em;">
@@ -34,7 +30,8 @@ permalink: /research/radargeophs
   </h3>
 
   <ul style="margin-top: 0; padding-left: 1.2em;">
-    <li><a href="PASTE_LINK_HERE" target="_blank" rel="noopener">Outlet or article title</a></li>
+    <li><a href="https://news.stanford.edu/stories/2022/09/missing-crucial-component-sea-level-rise" target="_blank" rel="noopener">Are we missing a crucial component of sea-level rise?</a></li>
+    <li><a href="https://insideclimatenews.org/news/14092022/antarctica-ice-sheet/" target="_blank" rel="noopener">Where Thick Ice Sheets in Antarctica Meet the Ground, Small Changes Could Have Big Consequences</a></li>
   </ul>
 
   <img src="/images/research/thermal.png"
