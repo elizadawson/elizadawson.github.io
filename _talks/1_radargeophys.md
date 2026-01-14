@@ -111,16 +111,6 @@ permalink: /research/radargeophs
 
 <div style="font-size: 0.85em; margin-top: 0.5em;">
 
-  <img src="/images/research/integrative.png"
-       alt=""
-       style="
-         float: left;
-         width: 400px;
-         margin: 0 1.5em 0.5em 0;
-         border-radius: 6px;
-         box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-       ">
-
   <p>
     There is a constant tradeoff between trying to improve and reduce uncertainty in sea level rise projections from leading ice sheet models, and thinking outside the box and considering that their could be entirely unaccounted for mechanisms of ice loss that are completely missing in current projections of future sea level rise. I try to strike a balance in my work, considering unaccounted for mechanisms such as basal thaw driven mass loss, while developing geophysics based constraints that can be directly used to help ice sheet model inter-comparison efforts reduce uncertainty in future projections.
   </p>
@@ -128,6 +118,17 @@ permalink: /research/radargeophs
   <p>
     Part of this is also recognizing that we are dealing with a complex system. Ice sheets are continually responding to both internal dynamics and external forcing, which are operating on a wide range of temporal and spatial timescales. I work with oceanographers and climate scientists to connect basal state and ice shelf melt to the ocean and atmospheric drivers that control heat transport towards Earth's ice sheet margins, using geophysical constraints to guide idealized and targeted modeling. This connects subsurface observations to both external and internal drivers, ultimately making future mass loss less nebulous and more grounded in observation and system scale understanding.
   </p>
+
+  <img src="/images/research/integrative.png"
+       alt=""
+       style="
+         display: block;
+         width: 550px;
+         max-width: 100%;
+         margin: 0.75em auto 0;
+         border-radius: 6px;
+         box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+       ">
 
   <div style="clear: both;"></div>
 </div>
