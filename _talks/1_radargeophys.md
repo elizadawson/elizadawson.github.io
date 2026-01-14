@@ -29,20 +29,13 @@ permalink: /research/radargeophs
     This is an important finding because leading ice sheet models used for future sea level rise projections have widely varying basal temperature fields. This implies that ice sheet model projections are not doing a good job of resolving the basal thermal state and therefore projections do not include ice loss related to basal thermal state mechanisms.
   </p>
 
-  <div style="
-    margin-top: 0.9em;
-    padding: 0.7em 0.9em;
-    border: 1px solid rgba(0,0,0,0.15);
-    border-radius: 8px;
-    background: rgba(0,0,0,0.03);
-  ">
-    <div style="font-weight: 600; margin-bottom: 0.35em;">
-      In the news
-    </div>
-    <div>
-      <a href="PASTE_LINK_HERE" target="_blank" rel="noopener">Add outlet name here</a>
-    </div>
-  </div>
+  <h3 style="font-size: 1.05rem; margin-top: 0.9em; margin-bottom: 0.35em;">
+    In the news
+  </h3>
+
+  <ul style="margin-top: 0; padding-left: 1.2em;">
+    <li><a href="PASTE_LINK_HERE" target="_blank" rel="noopener">Outlet or article title</a></li>
+  </ul>
 
   <img src="/images/research/thermal.png"
        alt=""
