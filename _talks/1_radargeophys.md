@@ -4,6 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /research/radargeophs
 ---
+
 <div style="font-size: 0.85em; margin-top: 1em;">
 
   <img src="/images/radar.png"
@@ -20,15 +21,14 @@ permalink: /research/radargeophs
     Radar sounding provides the only continent scale view of the ice sheet subsurface, from internal layering to the ice bed. I develop analysis methods that turn radar echoes into physical information about temperature, ice properties, and basal conditions, with uncertainty estimates that make the results usable in modeling. For example, I built a statistical framework to classify frozen and thawed bed conditions beneath the Wilkes Subglacial Basin outflow, including confidence for each classification, producing one of the first radar based thermal state assessments for a region central to East Antarctica stability. I also develop attenuation based constraints from radar returned power that can be compared with borehole and model based estimates.
   </p>
 
-  <div style="clear: both;"></div>
-</div>
+  <h2 style="font-size: 1.35em; margin-top: 1.0em; margin-bottom: 0.4em;">
+    Turning observations into model ready constraints
+  </h2>
 
-## Turning observations into model ready constraints
-
-<div style="font-size: 0.85em; margin-top: 0.5em;">
   <p>
-    Add your next paragraph here.
+    A key challenge in glaciology is converting geophysical observations into quantitative constraints that ice flow models can use, especially for basal and englacial conditions that are rarely measured directly. My approach is to develop inversion and probabilistic frameworks that translate geophysical measurements into model inputs, including basal friction and thermal state, and use that to quantify what is strongly constrained by data and what remains most uncertain.
   </p>
+
+  <div style="clear: both;"></div>
+
 </div>
-
-
