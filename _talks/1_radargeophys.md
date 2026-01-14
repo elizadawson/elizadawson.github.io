@@ -11,7 +11,7 @@ permalink: /research/radargeophs
        alt=""
        style="
          float: right;
-         width: 350px;
+         width: 400px;
          margin: 0 0 0.5em 1.5em;
          border-radius: 6px;
          box-shadow: 0 4px 12px rgba(0,0,0,0.15);
@@ -33,7 +33,7 @@ permalink: /research/radargeophs
        alt=""
        style="
          float: left;
-         width: 500px;
+         width: 550px;
          margin: 0 1.5em 0.5em 0;
          border-radius: 6px;
          box-shadow: 0 4px 12px rgba(0,0,0,0.15);
@@ -42,7 +42,7 @@ permalink: /research/radargeophs
   <div style="clear: both;"></div>
 </div>
 
-<h2 style="font-size: 1.35em; margin-top: 1.2em; margin-bottom: 0.4em;">
+<h2 style="font-size: 1.35rem; margin-top: 1.2em; margin-bottom: 0.4em;">
   Turning observations into model ready constraints
 </h2>
 
@@ -74,7 +74,7 @@ permalink: /research/radargeophs
   <div style="clear: both;"></div>
 </div>
 
-<h2 style="font-size: 1.35em; margin-top: 1.2em; margin-bottom: 0.4em;">
+<h2 style="font-size: 1.35rem; margin-top: 1.2em; margin-bottom: 0.4em;">
   Unlocking new ice sheet model capabilities
 </h2>
 
@@ -94,7 +94,7 @@ permalink: /research/radargeophs
     With better data products for englacial and subglacial conditions, this then poses the challenge of integrating this information directly into ice sheet models. Current ice sheet model data assimilation methods consist of using surface observations, such as surface velocity, to initialize ice sheet model simulations. My approach is to develop inversion and probabilistic frameworks that directly use subglacial geophysical measurements for model initialization. This could also include new parameterizations for better resolved subglacial feedback mechanisms. 
   </p>
 
-  <h2 style="font-size: 1.35em; margin-top: 1.0em; margin-bottom: 0.4em;">
+  <h2 style="font-size: 1.35rem; margin-top: 1.0em; margin-bottom: 0.4em;">
     Growing geophysical imaging demands
   </h2>
 
@@ -105,7 +105,7 @@ permalink: /research/radargeophs
   <div style="clear: both;"></div>
 </div>
 
-<h2 style="font-size: 1.35em; margin-top: 1.2em; margin-bottom: 0.4em;">
+<h2 style="font-size: 1.35rem; margin-top: 1.2em; margin-bottom: 0.4em;">
   Informing and improving future projections
 </h2>
 
