@@ -35,14 +35,15 @@ permalink: /research/radargeophs
   </ul>
 
   <img src="/images/research/thermal.png"
-       alt=""
-       style="
-         float: left;
-         width: 550px;
-         margin: 0 1.5em 0.5em 0;
-         border-radius: 6px;
-         box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-       ">
+     alt=""
+     style="
+       display: block;
+       width: 600px;
+       max-width: 100%;
+       margin: 0.75em auto;
+       border-radius: 6px;
+       box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+     ">
 
   <div style="clear: both;"></div>
 </div>
