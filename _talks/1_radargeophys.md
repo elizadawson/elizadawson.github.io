@@ -69,11 +69,11 @@ permalink: /research/radargeophs
   </p>
 
   <p>
-    Fortunately there are extensive radar sounding datasets across the Antarctic and Greenland ice sheets and radar sounding data is sensitive to internal layering all the way to the base of the ice sheet, even in parts of Antarctica where there is ice over 4 km thick. I apply a range of methods, from geophysical to statistical and machine learning techniques, to extract more physical information from radar sounding datasets. Where there is no viable method, I design new methods to extract more from radar data, such as <a href="/publications/#publication-2026-Dawson">englacial attenuation and temperature using spectral analysis </a>. 
+    Fortunately there are extensive radar sounding datasets across the Antarctic and Greenland ice sheets and radar sounding data is sensitive to internal layering all the way to the base of the ice sheet, even in parts of Antarctica where there is ice over 4 km thick. I apply a range of methods, from geophysical to statistical and machine learning techniques, to extract more physical information from radar sounding datasets. Where there is no viable method, I design new methods to extract more from radar data, such as <a href="/publications/#publication-2026-Dawson">englacial attenuation and temperature using spectral analysis</a>. 
   </p>
 
   <p>    
-    My <a href="/publications/#publication-2024-Dawson">work in <em>Geophysical Research Letters</em></a> classifies frozen and thawed bed conditions beneath the outflow of the Wilkes Subglacial Basin, producing a novel radar-derived thermal state assessment for a region central to East Antarctica stability.
+    My <a href="/publications/#publication-2024-Dawson">work in <em>Geophysical Research Letters</em></a> classified frozen and thawed bed conditions beneath the outflow of Wilkes Subglacial Basin, producing a novel radar-derived thermal state assessment for a region central to East Antarctica stability.
   </p>
 
   <h3 style="font-size: 1.05rem; margin-top: 0.9em; margin-bottom: 0.35em;">
@@ -128,11 +128,11 @@ permalink: /research/radargeophs
 <div style="font-size: 0.85em; margin-top: 0.5em;">
 
   <p>
-    There is a productive tension between refining projections within existing modeling frameworks and asking whether key physics is absent from those frameworks. I try to do both in my work, considering unaccounted for mechanisms such as basal thaw driven mass loss, while developing geophysics based constraints that can be directly used to help ice sheet model inter-comparison efforts reduce uncertainty in future projections.
+    Some view refining projections within existing modeling frameworks and asking whether key physics is missing as competing priorities. I see their interplay as essential for advancing glaciological understanding, and I pursue both by probing mechanisms such as basal thaw driven mass loss while developing geophysics based constraints that feed directly into model intercomparison and reduce uncertainty in current projections.
   </p>
 
   <p>
-    Part of this is also recognizing that we are dealing with a complex system. Ice sheets are continually responding to both internal dynamics and external forcing, which are operating on a wide range of temporal and spatial timescales. I work with oceanographers and climate scientists to connect basal state and ice shelf melt to the ocean and atmospheric drivers that control heat transport towards Earth's ice sheet margins, using geophysical constraints to guide idealized and targeted modeling. This connects subsurface observations to both external and internal drivers, ultimately making future mass loss less nebulous and more grounded in observation and system scale understanding.
+    Part of this is also recognizing that we are dealing with a complex system. Ice sheets are continually responding to both internal dynamics and external forcing, operating on a wide range of temporal and spatial timescales. I work with oceanographers and climate scientists to connect basal state and ice shelf melt to the ocean and atmospheric drivers that control heat transport towards Earth's ice sheet margins, using geophysical constraints to guide idealized and targeted modeling. This connects subsurface observations to both external and internal drivers, ultimately making future mass loss less nebulous and more grounded in observation and system scale understanding.
   </p>
 
   <img src="/images/research/integrative.png"
