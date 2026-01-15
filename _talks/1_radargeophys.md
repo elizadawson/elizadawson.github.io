@@ -128,7 +128,7 @@ permalink: /research/radargeophs
 <div style="font-size: 0.85em; margin-top: 0.5em;">
 
   <p>
-    Some view refining projections within existing modeling frameworks and asking whether key physics is missing as competing priorities. I see their interplay as essential for advancing glaciological understanding, and I pursue both by probing mechanisms such as basal thaw driven mass loss while developing geophysics based constraints that feed directly into model intercomparison and reduce uncertainty in current projections.
+    Some view refining projections within existing modeling frameworks and asking whether key physics is missing as competing priorities. I see their interplay as essential for advancing glaciological understanding, and I pursue both by probing mechanisms such as basal thaw driven mass loss while developing geophysics based constraints that feed directly into model intercomparison and reduce uncertainty in projections.
   </p>
 
   <p>
