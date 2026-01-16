@@ -170,7 +170,7 @@ permalink: /research/radargeophs
   </p>
 
   <p>
-    In my <a href="/publications/#publication-2026-Dawson">Reviews of Geophysics paper</a>, I led a community wide synthesis of attenuation processes in ice, spanning intrinsic absorption, scattering, anisotropy, and frequency dependent behavior across radar systems used in Antarctica, Greenland, and icy planetary bodies. This work connects laboratory measurements, field observations, and theoretical models to clarify how temperature, chemistry, and ice fabric control radar signal loss. By placing diverse datasets and methodologies in a common context, the review resolves long standing inconsistencies between approaches and establishes clear pathways for translating radar observations into physical ice properties.
+    In my <a href="/publications/#publication-2026-Dawson"><em>Reviews of Geophysics article</em></a>, I led a community wide synthesis of attenuation processes in ice, spanning intrinsic absorption, scattering, anisotropy, and frequency dependent behavior across radar systems used in Antarctica, Greenland, and icy planetary bodies. This work connects laboratory measurements, field observations, and theoretical models to clarify how temperature, chemistry, and ice fabric control radar signal loss. By placing diverse datasets and methodologies in a common context, the review resolves long standing inconsistencies between approaches and establishes clear pathways for translating radar observations into physical ice properties.
   </p>
 
   <p>
