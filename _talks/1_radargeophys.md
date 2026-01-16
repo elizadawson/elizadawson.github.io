@@ -174,7 +174,7 @@ permalink: /research/radargeophs
   </p>
 
   <p>
-    This synthesis directly informs my glaciological research by strengthening the physical basis for radar derived temperature and basal condition estimates, while also enabling knowledge transfer between Earth and planetary science communities facing similar observational challenges. More broadly, it reflects my approach to research, using synthesis not as an endpoint, but as a tool for identifying where new measurements, theory, and models can most effectively advance predictive understanding of ice sheet behavior.
+    This synthesis directly informs my glaciological research by strengthening the physical basis for radar derived temperature and basal condition estimates, while also enabling knowledge transfer between Earth and planetary science communities facing similar observational challenges. More broadly, it reflects my approach to research, using synthesis not as an endpoint, but as a tool for identifying where new data, theory, and models can most effectively advance predictive understanding of ice sheet behavior.
   </p>
 
   <div style="clear: both;"></div>
