@@ -150,7 +150,7 @@ permalink: /research/radargeophs
 </div>
 
 <h2 style="font-size: 1.35rem; margin-top: 1.2em; margin-bottom: 0.4em;">
-  Multidisciplinary synthesis
+  Multidisciplinary synthesis efforts
 </h2>
 
 <div style="font-size: 0.85em; margin-top: 0.5em;">
