@@ -148,3 +148,34 @@ permalink: /research/radargeophs
 
   <div style="clear: both;"></div>
 </div>
+
+<h2 style="font-size: 1.35rem; margin-top: 1.2em; margin-bottom: 0.4em;">
+  Multidisciplinary synthesis
+</h2>
+
+<div style="font-size: 0.85em; margin-top: 0.5em;">
+
+  <img src="/images/research/electromagnetic.png"
+       alt=""
+       style="
+         float: right;
+         width: 350px;
+         margin: 0 0 0.5em 1.5em;
+         border-radius: 6px;
+         box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+       ">
+
+  <p>
+    A central theme of my research is identifying physical commonalities that cut across disciplinary and observational boundaries. One example is my work synthesizing electromagnetic attenuation in ice, which draws together glaciology, geophysics, and planetary science within a shared physical framework.
+  </p>
+
+  <p>
+    In my Reviews of Geophysics paper, I led a community wide synthesis of attenuation processes in ice, spanning intrinsic absorption, scattering, anisotropy, and frequency dependent behavior across radar systems used in Antarctica, Greenland, and icy planetary bodies. This work connects laboratory measurements, field observations, and theoretical models to clarify how temperature, chemistry, and ice fabric control radar signal loss. By placing diverse datasets and methodologies in a common context, the review resolves long standing inconsistencies between approaches and establishes clear pathways for translating radar observations into physical ice properties.
+  </p>
+
+  <p>
+    This synthesis directly informs my glaciological research by strengthening the physical basis for radar derived temperature and basal condition estimates, while also enabling knowledge transfer between Earth and planetary science communities facing similar observational challenges. More broadly, it reflects my approach to research, using synthesis not as an endpoint, but as a tool for identifying where new measurements, theory, and models can most effectively advance predictive understanding of ice sheet behavior.
+  </p>
+
+  <div style="clear: both;"></div>
+</div>
