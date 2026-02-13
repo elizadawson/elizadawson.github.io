@@ -13,12 +13,12 @@ Led ground-based radar surveys and supported additional geophysical measurements
   <img src="/images/helheim2025/photo1.png" alt="Photo 1">
   <img src="/images/helheim2025/photo2.png" alt="Photo 2">
   <img src="/images/helheim2025/photo3.png" alt="Photo 3">
-  <img src="/images/helheim2025/photo4.png" alt="Photo 4">
   <img src="/images/helheim2025/photo5.png" alt="Photo 5">
   <img src="/images/helheim2025/photo6.png" alt="Photo 6">
   <img src="/images/helheim2025/photo7.png" alt="Photo 7">
   <img src="/images/helheim2025/photo8.png" alt="Photo 8">
   <img src="/images/helheim2025/photo9.png" alt="Photo 9">
+  <img src="/images/helheim2025/photo4.png" alt="Photo 4">
 </div>
 
 ## Slakbreen Glacier, Svalbard 2023
