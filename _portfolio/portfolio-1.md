@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Fieldwork in Photos"
+title: "From the field"
 permalink: /portfolio/
 author_profile: true
 ---
-Fieldwork is a key part of my research, and I enjoy documenting these expeditions through photography. Below are selected images from recent campaigns in Greenland, Antarctica, Svalbard, and Iceland.
+I enjoy documenting research expeditions through photography. Below are selected images from recent campaigns in Greenland, Antarctica, Svalbard, and Iceland.
 
 ## Helheim Glacier and Tasiilaq, Greenland 2025
 Led ground-based radar surveys and supported additional geophysical measurements as part of a multi-institutional field campaign investigating how surface meltwater reaches the bed of Helheim Glacier, one of Greenland’s fastest-flowing outlet glaciers.
