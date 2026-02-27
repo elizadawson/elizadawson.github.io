@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Radar Attenuation through Ice on Earth and Across the Solar System"
 collection: publications
 category: manuscripts
@@ -10,4 +10,4 @@ venue: 'Reviews of Geophysics (in review)'
 # paperurl: ''
 citation: 'Dawson, E. J., N. Wolfenbarger, W. Chu, D. M. Schroeder. (in review). Radar Attenuation through Ice on Earth and Across the Solar System. Reviews of Geophysics.'
 
----
+--- -->
