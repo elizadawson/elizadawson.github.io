@@ -18,11 +18,11 @@ permalink: /research/radargeophs
        ">
 
   <p>
-    I use process based modeling to test how sensitive ice loss is to poorly observed englacial and subglacial conditions and to identify which measurements will most reduce projection uncertainty.
+    I use process based modeling to test how sensitive ice loss is to poorly observed englacial and subglacial conditions, and to identify which measurements will most reduce projection uncertainty.
   </p>
 
   <p>
-    My research in <a href="/publications/#publication-2022-Dawson"><em>Nature Communications</em></a> used numerical modeling to show that small amounts of thawing at the base of the ice sheet in near melt regions could greatly reduce basal friction and increase ice discharge in parts of East Antarctica often treated as stable. This links basal thermal conditions to future ice loss vulnerability and identifies regions where observations are most needed. This is an important finding because leading ice sheet models used for future sea level rise projections have widely varying basal temperature fields. This implies that ice sheet model projections are not doing a good job of resolving the basal thermal state and therefore projections do not include ice loss related to basal thermal state mechanisms.
+    My research in <a href="/publications/#publication-2022-Dawson"><em>Nature Communications</em></a> used numerical modeling to show that small amounts of thawing at the base of the ice sheet in near melt regions could greatly reduce basal friction and increase ice discharge in parts of East Antarctica often treated as stable. This links basal thermal conditions to future ice loss vulnerability and identifies regions where new observations are most needed. It also highlights a major modeling challenge, current ice sheet models used for sea level rise projections show wide differences in basal temperature fields, suggesting that basal thermal state remains poorly resolved and that an important source of future ice loss may still be underrepresented.
   </p>
 
   <h3 style="font-size: 1.05rem; margin-top: 0.9em; margin-bottom: 0.35em;">
@@ -49,7 +49,7 @@ permalink: /research/radargeophs
 </div>
 
 <h2 style="font-size: 1.35rem; margin-top: 1.2em; margin-bottom: 0.4em;">
-  Turning observations into model ready constraints
+  Extracting physical constraints from observations
 </h2>
 
 <div style="font-size: 0.85em; margin-top: 0.5em;">
@@ -65,15 +65,15 @@ permalink: /research/radargeophs
        ">
 
   <p>
-    A key challenge in glaciology is converting geophysical observations into quantitative constraints that ice flow models can use, especially for basal and englacial conditions that are rarely measured directly. My approach is to focus on extracting more physical information about ice properties, including ice temperature and subglacial water, directly from geophysical datasets.
+    A key challenge in glaciology is converting geophysical observations into quantitative constraints that ice flow models can use, especially for basal and englacial conditions that are rarely measured directly. My approach is to extract more physical information about ice properties, including ice temperature and subglacial water, directly from geophysical datasets.
   </p>
 
   <p>
-    Fortunately there are extensive radar sounding datasets across the Antarctic and Greenland ice sheets and radar sounding data is sensitive to internal layering all the way to the base of the ice sheet, even in parts of Antarctica where there is ice over 4 km thick. I apply a range of methods, from geophysical to statistical and machine learning techniques, to extract more physical information from radar sounding datasets. Where there is no viable method, I design new methods to extract more from radar data, such as <a href="/publications/#publication-2026-Dawson">englacial attenuation and temperature using spectral analysis</a>. 
+    Extensive radar sounding surveys now exist across Antarctica and Greenland, and these data are sensitive to internal layering all the way to the base of the ice sheet, even in regions with more than 4 km of ice. I use geophysical, statistical, and machine learning methods to recover physical information from radar sounding data. Where no suitable method exists, I develop new ones, such as approaches for estimating englacial attenuation and temperature from spectral analysis.
   </p>
 
-  <p>    
-    My <a href="/publications/#publication-2024-Dawson">work in <em>Geophysical Research Letters</em></a> classified frozen and thawed bed conditions beneath the outflow of Wilkes Subglacial Basin, producing a novel radar-derived thermal state assessment for a region central to East Antarctica stability.
+  <p>
+    My <a href="/publications/#publication-2024-Dawson">work in <em>Geophysical Research Letters</em></a> classified frozen and thawed bed conditions beneath the outflow of Wilkes Subglacial Basin, producing a radar derived thermal state assessment for a region central to the stability of East Antarctica.
   </p>
 
   <h3 style="font-size: 1.05rem; margin-top: 0.9em; margin-bottom: 0.35em;">
@@ -91,7 +91,7 @@ permalink: /research/radargeophs
 </div>
 
 <h2 style="font-size: 1.35rem; margin-top: 1.2em; margin-bottom: 0.4em;">
-  Unlocking new ice sheet model capabilities
+  Integrating geophysical observations into ice sheet models
 </h2>
 
 <div style="font-size: 0.85em; margin-top: 0.5em;">
@@ -107,32 +107,32 @@ permalink: /research/radargeophs
        ">
 
   <p>
-    With better data products for englacial and subglacial conditions, this then poses the challenge of integrating this information directly into ice sheet models. Current ice sheet model data assimilation methods consist of using surface observations, such as surface velocity, to initialize ice sheet model simulations. My approach is to develop inversion and probabilistic frameworks that directly use subglacial geophysical measurements for model initialization. This could also include new parameterizations for better resolved subglacial feedback mechanisms. 
+    Better observational products for englacial and subglacial conditions create the next challenge, bringing that information directly into ice sheet models. Most current data assimilation approaches rely on surface observations such as ice velocity to initialize simulations. My work focuses instead on inversion and probabilistic frameworks that directly incorporate subsurface geophysical constraints for model initialization, while also motivating improved parameterizations of basal processes and feedbacks.
   </p>
 
-  <h2 style="font-size: 1.35rem; margin-top: 1.0em; margin-bottom: 0.4em;">
-    Growing geophysical imaging demands
-  </h2>
+  <p>
+    As ice sheet models become better able to incorporate geophysical observations, the need will grow not only for new data, but also for stronger methods to turn those observations into meaningful characterization of subsurface conditions. I see the strongest path forward as combining existing large scale radar sounding surveys with targeted field campaigns that fill critical gaps, then using new tools and methods to convert those measurements into englacial and subglacial characterization. Linking radar data with complementary observations, including boreholes, radiometers, and seismic data, can further strengthen that effort.
+  </p>
 
   <p>
-    As ice sheet model geophysical integration capabilities increase, this will drive higher geophysical data demands. I believe the most promising approach is to combine existing large-scale radar sounding surveys, with new targeted field campaigns to fill in radar measurements and pair with other geophysical datasets, such as borehole observations, radiometers, and seismic imaging. This will ensure continuous estimates of subsurface properties in the most important regions for understanding ice sheet dynamics and potential contribution to sea level rise. 
+    Together, these approaches create a path toward spatially continuous subsurface constraints in the regions that matter most for understanding ice sheet dynamics and future sea level rise.
   </p>
 
   <div style="clear: both;"></div>
 </div>
 
 <h2 style="font-size: 1.35rem; margin-top: 1.2em; margin-bottom: 0.4em;">
-  Informing and improving future projections
+  Informing future projections
 </h2>
 
 <div style="font-size: 0.85em; margin-top: 0.5em;">
 
   <p>
-    Refining projections within existing modeling frameworks versus asking whether key physics is missing can be viewed as competing priorities. I see their interplay as essential for advancing glaciological understanding, and I try pursue both by probing mechanisms such as basal thaw driven mass loss while developing geophysics based constraints that feed directly into model intercomparison and reduce uncertainty in projections.
+    Refining projections within existing modeling frameworks and asking whether key physics is missing are sometimes treated as competing priorities. I see them as tightly connected, and I pursue both by testing mechanisms such as basal thaw driven mass loss while also developing geophysics based constraints that can feed directly into model intercomparison and reduce projection uncertainty.
   </p>
 
   <p>
-    Part of this is also recognizing that we are dealing with a complex system. Ice sheets are continually responding to both internal dynamics and external forcing, operating on a wide range of temporal and spatial timescales. I work with oceanographers and climate scientists to connect basal state and ice shelf melt to the ocean and atmospheric drivers that control heat transport towards Earth's ice sheet margins, using geophysical constraints to guide idealized and targeted modeling. This connects subsurface observations to both external and internal drivers, ultimately making future mass loss less nebulous and more grounded in observation and system scale understanding.
+    This also requires treating ice sheets as parts of a broader and evolving system. Ice sheets respond to both internal dynamics and external forcing, across a wide range of spatial and temporal scales. I work with oceanographers and climate scientists to connect basal state and ice shelf melt to the oceanic and atmospheric drivers that transport heat toward ice sheet margins, using geophysical constraints to guide idealized and targeted modeling. This links subsurface observations to both internal and external controls on future mass loss.
   </p>
 
   <img src="/images/research/integrative.png"
@@ -150,7 +150,7 @@ permalink: /research/radargeophs
 </div>
 
 <h2 style="font-size: 1.35rem; margin-top: 1.2em; margin-bottom: 0.4em;">
-  Multidisciplinary synthesis efforts
+  Connecting work across disciplines
 </h2>
 
 <div style="font-size: 0.85em; margin-top: 0.5em;">
@@ -166,15 +166,15 @@ permalink: /research/radargeophs
        ">
 
   <p>
-    A central theme of my research is identifying physical commonalities that cut across disciplinary and observational boundaries. One example is my work synthesizing electromagnetic attenuation in ice, which draws together glaciology, geophysics, and planetary science within a shared physical framework.
+    A central theme of my research is identifying physical commonalities that cut across disciplinary and observational boundaries. One example is my work synthesizing electromagnetic attenuation in ice, which brings together glaciology, geophysics, and planetary science within a shared physical framework.
   </p>
 
   <p>
-    In my <a href="/publications/#publication-2026-Dawson"><em>Reviews of Geophysics</em> article</a>, I led a community wide synthesis of attenuation processes in ice, spanning intrinsic absorption, scattering, anisotropy, and frequency dependent behavior across radar systems used in Antarctica, Greenland, and icy planetary bodies. This work connects laboratory measurements, field observations, and theoretical models to clarify how temperature, chemistry, and ice fabric control radar signal loss. By placing diverse datasets and methodologies in a common context, the review resolves long standing inconsistencies between approaches and establishes clear pathways for translating radar observations into physical ice properties.
+    In my <a href="/publications/#publication-2026-Dawson"><em>Reviews of Geophysics</em> article</a>, I led a community wide synthesis of attenuation processes in ice, spanning intrinsic absorption, scattering, anisotropy, and frequency dependent behavior across radar systems used in Antarctica, Greenland, and icy planetary bodies. This work connects laboratory measurements, field observations, and theoretical models to clarify how temperature, chemistry, and ice fabric control radar signal loss. By placing diverse datasets and methods in a common context, the review helps resolve long standing inconsistencies and clarifies how radar observations can be translated into physical ice properties.
   </p>
 
   <p>
-    This synthesis directly informs my glaciological research by strengthening the physical basis for radar derived temperature and basal condition estimates, while also enabling knowledge transfer between Earth and planetary science communities facing similar observational challenges. More broadly, it reflects my approach to research, using synthesis not as an endpoint, but as a tool for identifying where new data, theory, and models can most effectively advance predictive understanding of ice sheet behavior.
+    This synthesis directly informs my glaciological research by strengthening the physical basis for radar derived temperature and basal condition estimates, while also supporting knowledge transfer between Earth and planetary science communities facing related observational challenges. More broadly, it reflects my approach to research, using synthesis not as an endpoint, but as a way to identify where new data, theory, and modeling can most effectively improve predictive understanding of ice sheet behavior.
   </p>
 
   <div style="clear: both;"></div>
